@@ -26,16 +26,16 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: "20"
-          cache: npm
+          node-version: "22"
 
-      - name: Install and build
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build static site
         env:
           NEXT_PUBLIC_SITE_URL: https://yaralioglu.com
           NEXT_TELEMETRY_DISABLED: "1"
-        run: |
-          npm ci
-          npx next build --webpack
+        run: npx next build --webpack
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
