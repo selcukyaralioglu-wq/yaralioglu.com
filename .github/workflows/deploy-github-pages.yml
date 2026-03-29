@@ -32,9 +32,10 @@ jobs:
       - name: Install and build
         env:
           NEXT_PUBLIC_SITE_URL: https://yaralioglu.com
+          NEXT_TELEMETRY_DISABLED: "1"
         run: |
           npm ci
-          npm run build
+          npx next build --webpack
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
