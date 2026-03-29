@@ -2,8 +2,10 @@ import { getTranslations } from "next-intl/server";
 import { SectionWrapper } from "@/components/ui/SectionWrapper";
 import { FadeUp } from "@/components/ui/FadeUp";
 
-export async function CorporateIntro() {
-  const t = await getTranslations("Home.intro");
+type Props = { locale: string };
+
+export async function CorporateIntro({ locale }: Props) {
+  const t = await getTranslations({ locale, namespace: "Home.intro" });
 
   return (
     <SectionWrapper className="bg-surface/30">

@@ -1,4 +1,4 @@
-import { getTranslations } from "next-intl/server";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import { PageHero } from "@/components/ui/PageHero";
 import { SectionWrapper } from "@/components/ui/SectionWrapper";
 import { LogoGrid } from "@/components/ui/LogoGrid";
@@ -19,8 +19,10 @@ export async function generateMetadata({ params }: Props) {
   return { title: t("title"), description: t("description") };
 }
 
-export default async function ReferencesPage() {
-  const t = await getTranslations("ReferencesPage");
+export default async function ReferencesPage({ params }: Props) {
+  const { locale } = await params;
+  setRequestLocale(locale);
+  const t = await getTranslations({ locale, namespace: "ReferencesPage" });
 
   return (
     <>

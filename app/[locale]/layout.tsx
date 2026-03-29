@@ -45,8 +45,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description: t("siteDescription"),
     alternates: {
       languages: {
-        tr: `${siteUrl}/tr`,
-        en: `${siteUrl}/en`,
+        tr: `${siteUrl}/tr/`,
+        en: `${siteUrl}/en/`,
       },
     },
     openGraph: {
@@ -75,7 +75,7 @@ export default async function LocaleLayout({ children, params }: Props) {
         <NextIntlClientProvider messages={messages}>
           <Header />
           <main className="flex-1">{children}</main>
-          <Footer />
+          <Footer locale={locale} />
         </NextIntlClientProvider>
       </body>
     </html>

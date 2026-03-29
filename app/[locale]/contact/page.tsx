@@ -1,5 +1,5 @@
 import { MapPin, Phone, Mail, Clock } from "lucide-react";
-import { getTranslations } from "next-intl/server";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import { PageHero } from "@/components/ui/PageHero";
 import { SectionWrapper } from "@/components/ui/SectionWrapper";
 import { ContactForm } from "@/components/ui/ContactForm";
@@ -15,9 +15,11 @@ export async function generateMetadata({ params }: Props) {
   return { title: t("title"), description: t("description") };
 }
 
-export default async function ContactPage() {
-  const t = await getTranslations("ContactPage");
-  const tc = await getTranslations("Contact");
+export default async function ContactPage({ params }: Props) {
+  const { locale } = await params;
+  setRequestLocale(locale);
+  const t = await getTranslations({ locale, namespace: "ContactPage" });
+  const tc = await getTranslations({ locale, namespace: "Contact" });
 
   return (
     <>

@@ -6,9 +6,11 @@ import { SectionWrapper } from "@/components/ui/SectionWrapper";
 import { PremiumCard } from "@/components/ui/PremiumCard";
 import { FadeUp } from "@/components/ui/FadeUp";
 
-export async function GroupPreview() {
-  const t = await getTranslations("Home.group");
-  const tu = await getTranslations("Home.group.units");
+type Props = { locale: string };
+
+export async function GroupPreview({ locale }: Props) {
+  const t = await getTranslations({ locale, namespace: "Home.group" });
+  const tu = await getTranslations({ locale, namespace: "Home.group.units" });
 
   const featured = groupUnitOrder.find((u) => u.flagship);
   const rest = groupUnitOrder.filter((u) => !u.flagship);

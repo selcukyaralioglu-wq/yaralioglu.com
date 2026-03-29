@@ -1,4 +1,4 @@
-import { getTranslations } from "next-intl/server";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import { PageHero } from "@/components/ui/PageHero";
 import { SectionWrapper } from "@/components/ui/SectionWrapper";
 import { PremiumCard } from "@/components/ui/PremiumCard";
@@ -19,8 +19,10 @@ export async function generateMetadata({ params }: Props) {
   return { title: t("title"), description: t("description") };
 }
 
-export default async function InvestmentsPage() {
-  const t = await getTranslations("InvestmentsPage");
+export default async function InvestmentsPage({ params }: Props) {
+  const { locale } = await params;
+  setRequestLocale(locale);
+  const t = await getTranslations({ locale, namespace: "InvestmentsPage" });
 
   return (
     <>

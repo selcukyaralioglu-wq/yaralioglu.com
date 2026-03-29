@@ -4,8 +4,10 @@ import { SectionWrapper } from "@/components/ui/SectionWrapper";
 import { StatCounter } from "@/components/ui/StatCounter";
 import { FadeUp } from "@/components/ui/FadeUp";
 
-export async function StatsSection() {
-  const t = await getTranslations("Home.stats");
+type Props = { locale: string };
+
+export async function StatsSection({ locale }: Props) {
+  const t = await getTranslations({ locale, namespace: "Home.stats" });
 
   return (
     <SectionWrapper className="bg-surface/30">

@@ -4,11 +4,13 @@ import { Link } from "@/i18n/navigation";
 import { navRoutes, contactDetails } from "@/data/site";
 import { Container } from "@/components/ui/Container";
 
-export async function Footer() {
-  const t = await getTranslations("Footer");
-  const tc = await getTranslations("Contact");
-  const tNav = await getTranslations("Nav");
-  const tMeta = await getTranslations("Meta");
+type Props = { locale: string };
+
+export async function Footer({ locale }: Props) {
+  const t = await getTranslations({ locale, namespace: "Footer" });
+  const tc = await getTranslations({ locale, namespace: "Contact" });
+  const tNav = await getTranslations({ locale, namespace: "Nav" });
+  const tMeta = await getTranslations({ locale, namespace: "Meta" });
   const year = new Date().getFullYear();
 
   return (

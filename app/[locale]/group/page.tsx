@@ -1,4 +1,4 @@
-import { getTranslations } from "next-intl/server";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import { PageHero } from "@/components/ui/PageHero";
 import { SectionWrapper } from "@/components/ui/SectionWrapper";
 import { PremiumCard } from "@/components/ui/PremiumCard";
@@ -13,9 +13,11 @@ export async function generateMetadata({ params }: Props) {
   return { title: t("title"), description: t("description") };
 }
 
-export default async function GroupPage() {
-  const t = await getTranslations("GroupPage");
-  const tu = await getTranslations("GroupPage.units");
+export default async function GroupPage({ params }: Props) {
+  const { locale } = await params;
+  setRequestLocale(locale);
+  const t = await getTranslations({ locale, namespace: "GroupPage" });
+  const tu = await getTranslations({ locale, namespace: "GroupPage.units" });
 
   const featured = groupUnitOrder.find((u) => u.flagship);
   const secondary = groupUnitOrder.filter((u) => !u.flagship);

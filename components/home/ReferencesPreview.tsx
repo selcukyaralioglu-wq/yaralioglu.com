@@ -6,8 +6,10 @@ import { SectionWrapper } from "@/components/ui/SectionWrapper";
 import { LogoGrid } from "@/components/ui/LogoGrid";
 import { FadeUp } from "@/components/ui/FadeUp";
 
-export async function ReferencesPreview() {
-  const t = await getTranslations("Home.references");
+type Props = { locale: string };
+
+export async function ReferencesPreview({ locale }: Props) {
+  const t = await getTranslations({ locale, namespace: "Home.references" });
 
   return (
     <SectionWrapper className="border-t border-border">

@@ -3,9 +3,11 @@ import { strengthIcons, strengthOrder } from "@/data/site";
 import { SectionWrapper } from "@/components/ui/SectionWrapper";
 import { FadeUp } from "@/components/ui/FadeUp";
 
-export async function WhyUs() {
-  const t = await getTranslations("Home.why");
-  const ti = await getTranslations("Home.why.items");
+type Props = { locale: string };
+
+export async function WhyUs({ locale }: Props) {
+  const t = await getTranslations({ locale, namespace: "Home.why" });
+  const ti = await getTranslations({ locale, namespace: "Home.why.items" });
 
   return (
     <SectionWrapper className="border-t border-border">

@@ -1,4 +1,4 @@
-import { getTranslations } from "next-intl/server";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import { PageHero } from "@/components/ui/PageHero";
 import { SectionWrapper } from "@/components/ui/SectionWrapper";
 import { MediaGrid } from "@/components/ui/MediaGrid";
@@ -12,8 +12,10 @@ export async function generateMetadata({ params }: Props) {
   return { title: t("title"), description: t("description") };
 }
 
-export default async function MediaPage() {
-  const t = await getTranslations("MediaPage");
+export default async function MediaPage({ params }: Props) {
+  const { locale } = await params;
+  setRequestLocale(locale);
+  const t = await getTranslations({ locale, namespace: "MediaPage" });
 
   return (
     <>

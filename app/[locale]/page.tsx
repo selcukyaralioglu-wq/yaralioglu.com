@@ -1,4 +1,4 @@
-import { getTranslations } from "next-intl/server";
+import { getTranslations, setRequestLocale } from "next-intl/server";
 import { CTASection } from "@/components/ui/CTASection";
 import { HeroSection } from "@/components/home/HeroSection";
 import { CorporateIntro } from "@/components/home/CorporateIntro";
@@ -19,23 +19,25 @@ export async function generateMetadata({ params }: Props) {
   };
 }
 
-export default async function HomePage() {
-  const t = await getTranslations("Home.cta");
+export default async function HomePage({ params }: Props) {
+  const { locale } = await params;
+  setRequestLocale(locale);
+  const t = await getTranslations({ locale, namespace: "Home" });
 
   return (
     <>
       <HeroSection />
-      <CorporateIntro />
+      <CorporateIntro locale={locale} />
       <ActivitiesOverview />
-      <GroupPreview />
-      <WhyUs />
-      <StatsSection />
-      <ReferencesPreview />
+      <GroupPreview locale={locale} />
+      <WhyUs locale={locale} />
+      <StatsSection locale={locale} />
+      <ReferencesPreview locale={locale} />
       <CTASection
-        title={t("title")}
-        body={t("body")}
-        primaryLabel={t("primary")}
-        secondaryLabel={t("secondary")}
+        title={t("cta.title")}
+        body={t("cta.body")}
+        primaryLabel={t("cta.primary")}
+        secondaryLabel={t("cta.secondary")}
       />
     </>
   );
