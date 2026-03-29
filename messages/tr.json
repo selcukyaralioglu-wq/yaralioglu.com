@@ -1,0 +1,282 @@
+{
+  "Meta": {
+    "siteDescription": "Disiplinli yürütme, stratejik büyüme ve fitness, tesisler, dağıtım ile kurumsal gelişimde üst düzey standartlarla çok sektörlü yatırım, ticaret ve iş operasyonları.",
+    "pages": {
+      "home": { "title": "Ana Sayfa", "description": "Yaralıoğlu — çok sektörlü yatırım, ticaret ve iş operasyonları. Güç, güven ve seçkin kurumsal standartlar." },
+      "corporate": { "title": "Kurumsal", "description": "Şirket profili, vizyon, misyon, temel değerler ve uzun vadeli strateji." },
+      "activities": { "title": "Faaliyetler", "description": "Spor ve fitness, tesis operasyonları, ticaret ve dağıtım ile yatırım odaklı iş geliştirme." },
+      "group": { "title": "Grup Yapısı", "description": "İş birimleri, amiral gemisi platform ve genişleme yol haritası." },
+      "investments": { "title": "Yatırımlar", "description": "Yatırım felsefesi, sektör odağı ve değer yaratma modeli." },
+      "references": { "title": "Referanslar", "description": "Ortaklar, iş ağı ve hizmet verilen sektörler." },
+      "media": { "title": "Medya Merkezi", "description": "Tesisler, operasyonlar, kurumsal anlar ve projeler için editöryal galeri." },
+      "contact": { "title": "İletişim", "description": "İş görüşmeleri, ortaklıklar ve kurumsal iletişim kanalları." }
+    }
+  },
+  "Nav": {
+    "home": "Ana Sayfa",
+    "corporate": "Kurumsal",
+    "activities": "Faaliyetler",
+    "group": "Grup",
+    "investments": "Yatırımlar",
+    "references": "Referanslar",
+    "media": "Medya",
+    "contact": "İletişim",
+    "cta": "İletişime geçin",
+    "primaryAria": "Ana menü"
+  },
+  "LangSwitcher": { "label": "Dil", "tr": "Türkçe", "en": "English" },
+  "Footer": {
+    "company": "Yaralıoğlu Yatırım Ticaret Ltd.",
+    "navTitle": "Menü",
+    "contactTitle": "İletişim",
+    "phoneLabel": "Telefon:",
+    "emailLabel": "E-posta:",
+    "socialCorporateAria": "Kurumsal sosyal kanal (yer tutucu)",
+    "socialNewsAria": "Haber ve duyurular kanalı (yer tutucu)",
+    "rights": "Tüm hakları saklıdır.",
+    "placeholderNote": "Kurumsal iletişim metinleri temsili yer tutuculardır.",
+    "copyright": "© {year} Yaralıoğlu Yatırım Ticaret Ltd."
+  },
+  "Home": {
+    "hero": {
+      "eyebrow": "Holding düzeyinde yürütüm",
+      "title": "Yaralıoğlu Yatırım Ticaret Ltd.",
+      "sub": "Çok sektörlü yatırım, ticaret ve iş operasyonları.",
+      "body": "Kurumsal disiplini; spor ve wellness platformları, tesis operasyonları, ticaret ağları ve stratejik yatırım girişimlerinde performans odaklı bir yaklaşımla birleştiriyoruz — ölçek, yönetişim ve rekabetçi piyasalarda sürdürülebilir öngörülebilirlik için tasarlandı.",
+      "ctaPrimary": "Görüşme başlatın",
+      "ctaSecondary": "Kurumsal profil",
+      "scroll": "Kaydır"
+    },
+    "intro": {
+      "eyebrow": "Kurumsal tanıtım",
+      "title": "Disiplinli çok sektörlü platform",
+      "p1": "Yaralıoğlu Yatırım Ticaret Ltd., tamamlayıcı dikeyler arasında net hesap verebilirlik ile yapılandırılmış bir kurumsal grup olarak faaliyet gösterir. Görev tanımımız nettir: marka bütünlüğünü veya uzun vadeli finansal sağlığı zayıflatmadan, standart, ölçek ve stratejik uyumun buluştuğu alanlarda sermaye ve operasyonel uzmanlık konumlandırmak.",
+      "p2": "Ayrıntılı kurumsal açıklamalar, yönetim profilleri ve yönetişim dokümantasyonu nihai içerik aşamasında sunulacaktır. Bu bölüm, ortaklık ve yatırım diyaloğu değerlendiren paydaşlar için otoriter anlatı tonunu oluşturur.",
+      "panelEyebrow": "Operasyon özeti",
+      "panelGov": "Yönetişim modeli",
+      "panelGovVal": "Merkezi holding",
+      "panelArch": "İş mimarisi",
+      "panelArchVal": "Dört ana sektör",
+      "panelEng": "İlişki yaklaşımı",
+      "panelEngVal": "Kurumsal ve seçici"
+    },
+    "activities": {
+      "eyebrow": "Faaliyet alanları",
+      "title": "Operasyonel titizlikle bütünleşen çekirdek iş alanları",
+      "lead": "Her dikey, kendine özgü KPI’larla yönetilir; grup düzeyinde uyumluluk, raporlama ve marka standartlarına uyumu sürdürerek kategoriler arası tutarlı bir pazar varlığını destekler.",
+      "cards": {
+        "fitness": {
+          "title": "Spor ve Fitness Çözümleri",
+          "description": "Performans odaklı markalar ve uzun vadeli üye değeri için ayarlanmış üst düzey operasyonlar, programlama ve tesis standartları."
+        },
+        "facility": {
+          "title": "Tesis Operasyonları",
+          "description": "Yoğun trafikli mekânlarda disiplinli bakım, tedarikçi yönetişimi ve marka tutarlılığı ile uçtan uca sorumluluk."
+        },
+        "trade": {
+          "title": "Ticaret ve Dağıtım",
+          "description": "Uyumluluk, güvenilirlik ve ölçeklenebilir lojistik üzerine kurulu yapılandırılmış ticaret akışları ve dağıtım ortaklıkları."
+        },
+        "investment": {
+          "title": "Yatırım ve İş Geliştirme",
+          "description": "Tamamlayıcı sektörlerde sürdürülebilir büyümeyi destekleyen seçici sermaye tahsisi ve iş mimarisi."
+        }
+      }
+    },
+    "group": {
+      "eyebrow": "Grup yapısı",
+      "title": "Netlik ve genişleme için tasarlanmış iş birimleri",
+      "lead": "Aşağıdaki birim anlatıları genişleme mantığını örnekler. Resmî isimlendirme, yasal yapı şemaları ve iştirak ayrıntıları hazır olduğunda eklenecektir.",
+      "flagship": "Amiral gemisi platform",
+      "link": "Grup özetini görüntüle",
+      "units": {
+        "flagship": {
+          "name": "Amiral Gemisi Fitness Operasyonu",
+          "role": "İmza wellness ve performans platformu; ayrıntılı birim anlatısı içerik aşamasında netleştirilecektir."
+        },
+        "tradeDiv": {
+          "name": "Ticari Ticaret Bölümü",
+          "role": "Doğrulanmış ürün kategorilerinde ithalat, toptan satış ve kanal yönetimi; ortak uyumu ön planda."
+        },
+        "growth": {
+          "name": "Stratejik Büyüme Projeleri",
+          "role": "Sıkı ROI, risk ve yönetişim kriterlerine göre değerlendirilen yeni girişimler ve ortak girişimler."
+        },
+        "facilities": {
+          "name": "Tesisler ve Varlık Yönetimi",
+          "role": "Önleyici yaşam döngüsü planlaması ile kurumsal ve üye odaklı ortamlarda operasyonel sorumluluk."
+        }
+      }
+    },
+    "why": {
+      "eyebrow": "Güçlü yönler",
+      "title": "Kurumların ve operatörlerin iş birliği neden seçtiği",
+      "items": {
+        "strategic": {
+          "title": "Stratejik büyüme",
+          "body": "Disiplinli önceliklendirme, net aşama kapıları ve sermaye verimliliği ile değer biriktiririz — fırsatçı genişleme değil."
+        },
+        "discipline": {
+          "title": "Operasyonel disiplin",
+          "body": "Yapılandırılmış playbook’lar, hesap verebilir liderlik ve ölçülebilir KPI’lar, karmaşık portföyleri ölçekte tutarlı tutar."
+        },
+        "service": {
+          "title": "Üst düzene hizmet anlayışı",
+          "body": "Her temas noktası — üye, kiracı, tedarikçi veya yatırımcı — holding düzeyinde bir özen standardıyla yürütülür."
+        },
+        "longterm": {
+          "title": "Uzun vadeli değer",
+          "body": "Kısa vadeli görünürlük kazanımlarından çok, kalıcı ortaklıklar ve dayanıklı nakit akışları için optimize ederiz."
+        }
+      }
+    },
+    "stats": {
+      "eyebrow": "Ölçek göstergeleri",
+      "title": "Ölçülü ayak izi, ihtiyatlı genişleme",
+      "note": "Aşağıdaki rakamlar sunum amaçlı temsili yer tutuculardır. Denetlenmiş istatistikler resmî raporlama ile birlikte güncellenecektir.",
+      "sectors": "Çekirdek sektörler",
+      "initiatives": "Aktif girişimler",
+      "partners": "İş ortakları",
+      "years": "Faaliyet yılları"
+    },
+    "references": {
+      "eyebrow": "Referanslar",
+      "title": "Seçilmiş sektörlerde güven ilişkileri",
+      "lead": "Ortak adları tipografi ve ızgara düzeni için yer tutucudur. Onaylı logo varlıkları ve vaka anlatımları sonrasında eklenecektir.",
+      "link": "Tüm referanslar"
+    },
+    "cta": {
+      "title": "Hassasiyetle ortaklık",
+      "body": "Kurumsal bir tahsisatçı, seçkin bir operatör veya dağıtım ortağı temsil ediyor olun — karşılıklı standartlara ve yönetilen zaman çizelgelerine uygun yapılandırılmış diyaloğa açığız.",
+      "primary": "İletişime geçin",
+      "secondary": "Faaliyetleri keşfedin"
+    }
+  },
+  "Corporate": {
+    "hero": {
+      "eyebrow": "Yönetişim ve kimlik",
+      "title": "Kurumsal",
+      "desc": "Konumlandırmamız, ilkelerimiz ve çok sektörlü performansı sürdüren yönetim sistemimize otoriter bir bakış."
+    },
+    "profile": { "title": "Şirket profili", "p1": "Yaralıoğlu Yatırım Ticaret Ltd., net raporlama hatları ve yönetim kurulu gözetimiyle yatırım, ticaret ve operasyonel varlıkları orkestre eden holding yönelimli bir kuruluş olarak faaliyet gösterir. Ayak izimiz seçkin fiziksel deneyimleri, tedarik tarafı ortaklıklarını ve birbirini stratejik olarak güçlendiren gelişim girişimlerini kapsar.", "p2": "Kayıt verileri, kurumsal tarihçe ve resmî finansal öne çıkanlar dahil ayrıntılı şirket bilgileri, kurumsal okuyucuların açıklama beklentilerini karşılamak üzere nihai içerik aşamasında burada sunulacaktır." },
+    "vision": { "title": "Vizyon", "body": "Sermaye disiplini, misafir ve ortak deneyimi ile uyumun yüzeysel marka gürültüsüne güvenmeden kalıcı kurumsal değerde buluştuğu referans çok sektörlü operatör olarak tanınmak." },
+    "mission": { "title": "Misyon", "body": "Fitness, tesisler, ticaret ve iş geliştirme alanlarında güvenilir platformları ölçeklendirmek için yapılandırılmış süreçler, hesap verebilir liderlik ve seçici ortaklıklar yürütüyoruz — şeffaflıkla ölçülen sonuçlar ve uzun vadeli bileşime eğilimle." },
+    "valuesTitle": "Temel değerler",
+    "values": {
+      "integrity": { "title": "Yürütümde dürüstlük", "body": "Kamu konumlandırmasını iç davranışla hizalarız — sözleşmeler, güvenlik standartları ve ortak taahhütleri pazarlığa açık değildir." },
+      "capital": { "title": "Sermayeye saygı", "body": "Her tahsisat aşama kapısı incelemesinden geçer; likiditeyi koruruz ve stratejik odağı aşındıran gösteriş projelerinden kaçınırız." },
+      "excel": { "title": "Operasyonel mükemmellik", "body": "Playbook’lar, denetimler ve teknoloji destekli izleme, varyansı ölçekte azaltmak üzere birimler geneline gömülüdür." },
+      "stakeholder": { "title": "Paydaş uyumu", "body": "Yatırımcılar, operatörler, tedarikçiler ve topluluklar, faaliyet izni sürdürmek için büyük kararlarda dikkate alınır." }
+    },
+    "management": { "title": "Yönetim yaklaşımı", "p1": "Liderlik, merkezi güvenlik bariyerleri ile yetki devrini vurgular: marka standartları, risk iştahı, uyumluluk takvimleri ve sermaye planlaması holding düzeyinde koordine edilir; iş birimleri pazar nüanslarına çevik kalır. Yönetim forumları performansı aylık inceler; strateji ve portföy bileşimi her döngüde biçimsel olarak yeniden değerlendirilir.", "p2": "Yönetici biyografileri ve organizasyon şemaları, harici yayıma onay sonrası bu anlatıya eşlik edecektir." },
+    "strategy": { "title": "Kurumsal bakış ve uzun vadeli strateji", "p1": "Aşamalı bir büyüme modeli izliyoruz: mevcut dikeylerde kârlılığı ve NPS’i derinleştirmek, operasyonel kaldıraç belirgin olmadan yan unsurları tanıtmamak ve yeni bölgeler ile kategorilerin araştırma temelli taranmasıyla stratejik opsiyonaliteyi korumak.", "p2": "Bu bölüm, kurumsal web sitesi yayını için nihai hâle getirildiğinde şirketin uzun vadeli strateji haritası, sermaye tahsis öncelikleri ve sürdürülebilirlik taahhütlerini öne çıkaracaktır." }
+  },
+  "ActivitiesPage": {
+    "hero": { "eyebrow": "Ne yapıyoruz", "title": "Faaliyetler", "desc": "Rekabetçi kategorilerde değer yaratma, ortaklara hizmet ve itibar biriktirme biçimimizi tanımlayan dört stratejik sütun." },
+    "blocks": {
+      "fitness": { "title": "Spor ve Fitness Çözümleri", "body": "Program kalitesi, ekipman yaşam döngüsü ve yetenek standartlarının marka özkaynağını güçlendirdiği seçkin wellness ortamlarını tasarlar ve yönetiriz. Kabiliyetler; ayrıcalıklı kitleler için konsept geliştirme, operasyon denetimleri, eğitmen mükemmellik çerçeveleri ve üye yolculuğu tasarımını kapsar.", "m1": "Program yönetişimi", "m2": "Üst düzey ekipman standartları", "m3": "Tutundurma analitiği", "panelEyebrow": "Görsel panel", "panelTitle": "Spor ve Fitness Çözümleri", "panelNote": "Bu bölüm, nihai üretim döngüsünde fotoğraf ve infografiklerle şirketin stratejik faaliyet alanını öne çıkaracaktır." },
+      "facility": { "title": "Tesis Operasyonları", "body": "Yoğun trafikli spor mekânlarından kurumsal sosyal alanlara kadar önleyici bakım programları, tedarikçi performans skor kartları ve acil hazırlık protokollerini yönetiriz. Amaç: kesintisiz çalışma süresi, marka ile uyumlu estetik ve öngörülebilir maliyet yapıları.", "m1": "Çalışma süresi KPI’ları", "m2": "Tedarikçi uyumu", "m3": "Yaşam döngüsü sermaye planları", "panelEyebrow": "Görsel panel", "panelTitle": "Tesis Operasyonları", "panelNote": "Bu bölüm, nihai üretim döngüsünde fotoğraf ve infografiklerle şirketin stratejik faaliyet alanını öne çıkaracaktır." },
+      "trade": { "title": "Ticaret ve Dağıtım", "body": "Seçici ithalat, toptan satış ve kanal ortaklıkları sözleşmesel netlik, stok disiplini ve etik tedarik kontrol noktaları etrafında yapılandırılır. Şeffaf Hizmet Seviyesi Anlaşmaları ve karşılıklı marj bütünlüğü ile ölçeklenen ilişkilere öncelik veririz.", "m1": "SLA uyumu", "m2": "Kanal yönetişimi", "m3": "Gümrük hazırlığı", "panelEyebrow": "Görsel panel", "panelTitle": "Ticaret ve Dağıtım", "panelNote": "Bu bölüm, nihai üretim döngüsünde fotoğraf ve infografiklerle şirketin stratejik faaliyet alanını öne çıkaracaktır." },
+      "investment": { "title": "Yatırım ve İş Geliştirme", "body": "Yatırım duruşumuz kasıtlıdır: operasyonel içgörünün uygulanabileceği, yönetişimin güçlendirilebileceği ve çıkış yollarının gerçekçi kaldığı yerlerde yer alırız. İş geliştirme; grup risk iştahına göre taranan ortak girişimler, tamamlayıcı satın almalar ve platform genişlemelerini destekler.", "m1": "Aşama kapısı incelemesi", "m2": "Portföy incelemeleri", "m3": "Sinerji haritalama", "panelEyebrow": "Görsel panel", "panelTitle": "Yatırım ve İş Geliştirme", "panelNote": "Bu bölüm, nihai üretim döngüsünde fotoğraf ve infografiklerle şirketin stratejik faaliyet alanını öne çıkaracaktır." }
+    }
+  },
+  "GroupPage": {
+    "hero": { "eyebrow": "Organizasyon", "title": "Grup yapısı", "desc": "Bugün için şeffaflık, yarın için disiplinli genişleme tasarlanmış modüler holding mimarisi." },
+    "overview": { "title": "Grup özeti", "p1": "Yaralıoğlu Yatırım Ticaret Ltd., uyumluluk, teknoloji, tedarik ve marka için paylaşılan politikalar altında özerk fakat hizalı iş birimlerini koordine eder. Bu yapı, her birimin piyasasında etkin rekabet etmesine izin verirken grup düzeyinde sermaye erişimi ve yetenek hareketliliğinden yararlanır.", "p2": "Yasal varlık diyagramları ve iştirak adlandırmaları, hukuk ve kurumsal iletişimle nihai hâle getirildiğinde entegre edilecektir." },
+    "featuredEyebrow": "Öne çıkan iş birimi",
+    "featuredHighlights": "Öne çıkanlar",
+    "featuredBullets": { "b1": "İmza üye ve misafir deneyimi standartları", "b2": "Grup çapında benimsenen operasyonel kıyaslar", "b3": "Marka yönlü çeşitlendirme için çapa olarak tanımlanan birim" },
+    "secondaryTitle": "Diğer iş birimleri",
+    "secondaryLead": "İkincil birimler ayrılmış F&Z sorumluluğunu korurken tedarik, gayrimenkul ve analitikte grup sinerjilerine katkı sağlar.",
+    "future": { "title": "Gelecek genişleme ve yeni girişimler", "p1": "Grup, finansal eşikler, düzenleyici uygulanabilirlik ve kültürel uyuma göre değerlendirilen bir girişim hattı sürdürmektedir. İncelenen temalar arasında seçici konaklama yan dalları, teknoloji destekli tesis analitiği ve savunulabilir hendeklere sahip uluslararası ticaret hatları yer alır.", "p2": "Bu bölüm, girişimler gizlilikten kamuya hazır dönüm noktalarına olgunlaştıkça şirketin stratejik faaliyet alanını öne çıkaracaktır." },
+    "units": {
+      "flagship": { "name": "Amiral Gemisi Fitness Operasyonu", "role": "İmza wellness ve performans platformu; ayrıntılı birim anlatısı içerik aşamasında netleştirilecektir." },
+      "tradeDiv": { "name": "Ticari Ticaret Bölümü", "role": "Doğrulanmış ürün kategorilerinde ithalat, toptan satış ve kanal yönetimi; ortak uyumu ön planda." },
+      "growth": { "name": "Stratejik Büyüme Projeleri", "role": "Sıkı ROI, risk ve yönetişim kriterlerine göre değerlendirilen yeni girişimler ve ortak girişimler." },
+      "facilities": { "name": "Tesisler ve Varlık Yönetimi", "role": "Önleyici yaşam döngüsü planlaması ile kurumsal ve üye odaklı ortamlarda operasyonel sorumluluk." }
+    }
+  },
+  "InvestmentsPage": {
+    "hero": { "eyebrow": "Sermaye ve büyüme", "title": "Yatırımlar", "desc": "Dikkat ve sermayeyi nasıl konumlandırdığımız — sabırla, yönetişimle ve ölçülebilir hesap verebilirlikle." },
+    "philosophy": { "title": "Yatırım felsefesi", "body": "Operasyonel uzmanlığın farklılaştırıcı olduğu, aşağı yönün anlaşıldığı ve üst yönün spekülasyon değil yürütümle yönlendirildiği durumları tercih ederiz. Sermaye netliği takip eder: maddi taahhüt öncesinde strateji, örgütsel hazırlık ve risk azaltma yerinde olmalıdır." },
+    "growth": { "title": "Uzun vadeli büyüme yaklaşımı", "body": "Büyüme ufuklara ayrılır — 12 aylık operasyonel kaldıraçlar, 24–36 aylık pazar genişlemesi ve çok yıllık platform bahisleri. Her ufuk açık KPI’lar, inceleme ritmi ve atalet önlemek için isteğe bağlı çıkış ölçütleri taşır." },
+    "portfolioTitle": "Stratejik proje portföyü",
+    "portfolioLead": "Aşağıdaki örnek girişimler değerlendirme kategorilerini iletir; gizli projeler uygun olana dek açıklanmaz.",
+    "projects": {
+      "p1": { "tag": "Operasyon teknolojisi", "title": "Platform modernizasyon programı", "body": "Çekirdek varlıklar genelinde tesis sistemleri, dijital üye temas noktaları ve analitik altyapısını yükselten çok aşamalı girişim." },
+      "p2": { "tag": "Ticaret ve lojistik", "title": "Seçici dağıtım genişlemesi", "body": "Daha geniş yayılımdan önce pilot ekonomilerle yürütülen coğrafi ve kanal testleri; ortak incelemesini vurgular." },
+      "p3": { "tag": "Marka inovasyonu", "title": "Wellness konsept kuluçkası", "body": "Seçkin kentsel demografiler için farklılaştırılmış programlama ve mekân tasarımına yönelik Ar-Ge — aşama onaylarına tabidir." }
+    },
+    "sectorsTitle": "Stratejik sektör odağı",
+    "sectorsLead": "Ağlarımızın, düzenleyici aşinalığımızın ve operasyonel playbook’larımızın bileştiği alanlarda yoğunlaşırız — sürdürülebilir avantaj olmayan kategorilere fırsatçı sürüklenmeden kaçınırız.",
+    "sectors": { "s1": "Performans ve wellness", "s2": "Tesisler ve hizmetler", "s3": "Tüketici ticareti", "s4": "Stratejik kurumsal gelişim" },
+    "modelTitle": "Değer yaratma modeli",
+    "modelSteps": {
+      "m1": { "strong": "Teşhis", "text": "— kaynak tahsisinden önce performans, risk ve kültürel faktörlerin tabanı." },
+      "m2": { "strong": "Tasarım", "text": "— ölçülebilir dönüm noktalarıyla işletme modeli, sermaye planı ve yönetişim ritmi." },
+      "m3": { "strong": "Yürütüm", "text": "— panolar, denetimler ve şeffaf paydaş iletişimiyle desteklenen icra." },
+      "m4": { "strong": "Derinleştirme", "text": "— getiri ve stratejik opsiyonalite güçlü kaldığı yerde yeniden yatırım; aksi halde çıkış veya yeniden şekillendirme." }
+    },
+    "roadmap": { "title": "Gelecek yol haritası", "p1": "İleri dönük girişimler, dönüm noktaları başarıldıkça yatırımcı- ve ortak-dostu materyallerde anlatılacaktır. Dijital altyapı, sorumlu genişleme ve gelişen ESG açıklama normlarına riayet vurgulanacaktır.", "p2": "Denetlenmiş sonuçlar, hatt güncellemeleri ve yönetişim iyileştirmelerini yansıtmak üzere ayrıntılı şirket bilgileri burada dönemsel olarak sunulacaktır." }
+  },
+  "ReferencesPage": {
+    "hero": { "eyebrow": "Güven ve ağ", "title": "Referanslar", "desc": "Seçkin operatörler, endüstriyel ortaklar ve kurumsal paydaşlarla nasıl iş birliği yaptığımızı gösteren seçilmiş ilişkiler." },
+    "trustedTitle": "Odaklı bir iş ağı tarafından güven",
+    "trustedLead": "Hacimden çok derinlik peşindeyiz: daha az ilişki, daha yüksek karşılıklı standartlar ve hesap verebilir teslimat. Aşağıdaki kimlikler, ortak onayları ve marka kılavuzları kamu logo kullanımına izin verene dek tipografik yer tutuculardır.",
+    "gridTitle": "Logo ızgarası",
+    "gridLead": "Vurgulamak için hover durumları; üretimde metin kilitleri onaylı grafiklerle değiştirilecektir.",
+    "testimonialsTitle": "Ortak bakış açıları",
+    "testimonialsLead": "Örnek görüşler; adlar ve organizasyonlar resmî yetki bekleyen yer tutuculardır.",
+    "t1": { "quote": "Atletik düzeyde operasyonel ayrıntı ile kurumsal yönetişimin nadir bir birleşimi. Görüşmeler yapılandırılmıştı, son tarihlere uyuldu ve iletişim dürüsttü.", "name": "Yer tutucu — Genel Müdür", "org": "Endüstriyel dağıtım ortağı" },
+    "t2": { "quote": "Tesis ekibi iş listesi değil sistem düşünür. İlk inceleme döngüsünde ölçülebilir çalışma süresi iyileşmeleri gördük.", "name": "Yer tutucu — Operasyon Direktörü", "org": "Seçkin wellness platformu" },
+    "t3": { "quote": "İnceleme bürokratikleşmeden kurumsal hissettirdi — net aşama kapıları ve şeffaf risk konuşmaları.", "name": "Yer tutucu — Yatırım lideri", "org": "Bölgesel kalkınma fonu" },
+    "sectorsTitle": "Hizmet verilen sektörler",
+    "sectorsLead": "Çalışmamız tutarlılık, uyumluluk ve üst düzene hizmet teslimatının ödüllendirildiği kategorileri kapsar. Sektör listeleri girişimler olgunlaştıkça ve yeni dikeyler resmî kanallarla duyuruldukça gelişecektir.",
+    "sectorTags": { "s1": "Spor ve performans", "s2": "Tesis yönetimi", "s3": "İthalat ve toptan satış", "s4": "Kurumsal hizmetler", "s5": "Konaklama yan dalları" }
+  },
+  "MediaPage": {
+    "hero": { "eyebrow": "Görsel hikâyeler", "title": "Medya merkezi", "desc": "Nasıl inşa ettiğimizi, işlettiğimizi ve evrildiğimizi gösteren editöryal pencere — yıllık raporlarımızdaki aynı titizlikle sunulur." },
+    "galleryTitle": "Galeri",
+    "galleryLead": "Kategoriler, görselleri niyetle gezinmeyi kolaylaştırır. Yüksek çözünürlüklü fotoğraf ve video, içerik entegrasyonu sırasında gradyan yer tutucularının yerini alacaktır.",
+    "categories": { "all": "Tümü", "facilities": "Tesisler", "operations": "Operasyonlar", "corporate": "Kurumsal", "projects": "Projeler" },
+    "cardEditorial": "Editöryal yer tutucu",
+    "view": "Görüntüle",
+    "lightboxAria": "Medya önizleme",
+    "lightboxClose": "Kapat",
+    "lightboxTitle": "Profesyonel fotoğraf yer tutucusu",
+    "lightboxBody": "Bu panel yüksek çözünürlüklü kurumsal ve performans görselleri ile değiştirilecektir. Işık kutusu; tesisler, operasyonlar ve stratejik proje anlatımı için editöryal sunumu gösterir.",
+    "itemLabel": "{category} — görsel {n}"
+  },
+  "ContactPage": {
+    "hero": { "eyebrow": "Güvenle iletişim", "title": "İletişim", "desc": "Ortaklık keşfi, tedarik görüşmeleri ve kurumsal iletişim için yapılandırılmış kanallar." },
+    "inquiryTitle": "İş görüşmesi",
+    "inquiryLead": "Kurumsal yazışma, tedarikçi kaydı veya medya talepleri için resmî iletişim ağaçları yayımlandıktan sonra uygun kanalı kullanın. Şimdilik bu sayfa seçkin form tasarımı ve bilgi mimarisini gösterir.",
+    "addressLabel": "Adres",
+    "phoneLabel": "Telefon",
+    "emailLabel": "E-posta",
+    "hoursLabel": "Çalışma saatleri",
+    "ctaBoxTitle": "Ortaklık çağrısı",
+    "ctaBoxBody": "Ortak girişim, varlık ortaklığı veya operasyonel iş birliği değerlendiriyorsanız notunuza zaman çizelgeleri ve yönetişim tercihlerini ekleyin.",
+    "ctaBoxButton": "Yatırım duruşunu inceleyin",
+    "mapTitle": "Harita yer tutucusu",
+    "mapLead": "Resmî iletişim ayrıntıları ve gömülü harita nihai içerik aşamasında eklenecektir. Bu tasarım aşamasında konum bilinçli biçimde dışarıda bırakılmıştır.",
+    "mapPlaceholder": "Harita entegrasyonu yer tutucusu — yayında kurumsal arayüzle eşleşen seçkin kartografik stil."
+  },
+  "ContactForm": {
+    "name": "Ad soyad",
+    "email": "E-posta",
+    "subject": "Konu",
+    "message": "Mesaj",
+    "phName": "Adınız",
+    "phEmail": "siz@kurum.com",
+    "phSubject": "Ortaklık talebi, medya, genel",
+    "phMessage": "Bağlam, zaman çizelgesi ve tercih ettiğiniz iletişim yöntemini paylaşın.",
+    "hint": "Bu form düzen amaçlıdır. İş geliştirme yönlendirmesi entegrasyon aşamasında yapılandırılacaktır.",
+    "submit": "Talebi gönder",
+    "success": "Teşekkürler. Mesajınız gösterim için kaydedildi. Onay akışı üretim sistemlerine sonradan bağlanacaktır."
+  },
+  "Contact": {
+    "address": "Genel merkez adresi, nihai kurumsal iletişim incelemesi sonrası yayınlanacaktır. İş bölgesi, metropol bölgesi.",
+    "hours": "Pazartesi–Cuma, 09:00–18:00 (bölgesel mesai)"
+  }
+}

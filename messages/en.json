@@ -1,0 +1,282 @@
+{
+  "Meta": {
+    "siteDescription": "Multi-sector investment, trade and business operations with disciplined execution, strategic growth and premium standards across fitness, facilities, distribution and corporate development.",
+    "pages": {
+      "home": { "title": "Home", "description": "Yaralıoğlu — multi-sector investment, trade and business operations. Strength, trust and premium corporate standards." },
+      "corporate": { "title": "Corporate", "description": "Company profile, vision, mission, core values and long-term strategy." },
+      "activities": { "title": "Activities", "description": "Sports and fitness, facility operations, trade and distribution, and investment-led business development." },
+      "group": { "title": "Group Structure", "description": "Business units, flagship platform and expansion roadmap." },
+      "investments": { "title": "Investments", "description": "Investment philosophy, sector focus and value creation model." },
+      "references": { "title": "References", "description": "Partners, network and sectors served." },
+      "media": { "title": "Media Center", "description": "Editorial gallery for facilities, operations, corporate moments and projects." },
+      "contact": { "title": "Contact", "description": "Business inquiries, partnerships and corporate contact channels." }
+    }
+  },
+  "Nav": {
+    "home": "Home",
+    "corporate": "Corporate",
+    "activities": "Activities",
+    "group": "Group",
+    "investments": "Investments",
+    "references": "References",
+    "media": "Media",
+    "contact": "Contact",
+    "cta": "Get in touch",
+    "primaryAria": "Primary"
+  },
+  "LangSwitcher": { "label": "Language", "tr": "Türkçe", "en": "English" },
+  "Footer": {
+    "company": "Yaralıoğlu Yatırım Ticaret Ltd.",
+    "navTitle": "Navigate",
+    "contactTitle": "Contact",
+    "phoneLabel": "Phone:",
+    "emailLabel": "Email:",
+    "socialCorporateAria": "Corporate social channel (placeholder)",
+    "socialNewsAria": "News and updates channel (placeholder)",
+    "rights": "All rights reserved.",
+    "placeholderNote": "Corporate communications materials are representative placeholders.",
+    "copyright": "© {year} Yaralıoğlu Yatırım Ticaret Ltd."
+  },
+  "Home": {
+    "hero": {
+      "eyebrow": "Holding-grade execution",
+      "title": "Yaralıoğlu Yatırım Ticaret Ltd.",
+      "sub": "Multi-sector investment, trade and business operations.",
+      "body": "We align institutional discipline with a performance-led mindset across sports and fitness platforms, facility operations, trade networks and strategic investment initiatives—built for scale, governance and sustained relevance in competitive markets.",
+      "ctaPrimary": "Start a conversation",
+      "ctaSecondary": "Corporate profile",
+      "scroll": "Scroll"
+    },
+    "intro": {
+      "eyebrow": "Corporate introduction",
+      "title": "A disciplined multi-sector platform",
+      "p1": "Yaralıoğlu Yatırım Ticaret Ltd. operates as a structured corporate group with clear accountability across complementary verticals. Our mandate is straightforward: deploy capital and operational expertise where standards, scale and strategic fit converge—without diluting brand integrity or long-term financial health.",
+      "p2": "Detailed corporate disclosures, leadership profiles and governance documentation will be presented in the final content phase. This section establishes the authoritative narrative tone for stakeholders evaluating partnership and investment dialogue.",
+      "panelEyebrow": "Operating snapshot",
+      "panelGov": "Governance model",
+      "panelGovVal": "Central holding",
+      "panelArch": "Business architecture",
+      "panelArchVal": "Four core sectors",
+      "panelEng": "Engagement posture",
+      "panelEngVal": "Institutional & selective"
+    },
+    "activities": {
+      "eyebrow": "Activities",
+      "title": "Core business areas, unified by operational rigor",
+      "lead": "Each vertical is managed with bespoke KPIs yet adheres to group-level compliance, reporting and brand standards—supporting a coherent market presence across categories.",
+      "cards": {
+        "fitness": {
+          "title": "Sports & Fitness Solutions",
+          "description": "Premium operations, programming and facility standards calibrated for performance-led brands and long-term member value."
+        },
+        "facility": {
+          "title": "Facility Operations",
+          "description": "End-to-end stewardship of high-traffic spaces with disciplined maintenance, vendor governance and brand consistency."
+        },
+        "trade": {
+          "title": "Trade & Distribution",
+          "description": "Structured trade flows and distribution partnerships anchored in compliance, reliability and scalable logistics."
+        },
+        "investment": {
+          "title": "Investment & Business Development",
+          "description": "Selective capital allocation and business architecture supporting sustainable growth across complementary sectors."
+        }
+      }
+    },
+    "group": {
+      "eyebrow": "Group structure",
+      "title": "Business units engineered for clarity and expansion",
+      "lead": "Placeholder unit narratives below illustrate expansion logic. Official naming, legal structure charts and subsidiary details will be added when available.",
+      "flagship": "Flagship platform",
+      "link": "View group overview",
+      "units": {
+        "flagship": {
+          "name": "Flagship Fitness Operation",
+          "role": "Signature wellness and performance platform; detailed unit narrative will be finalized in the content phase."
+        },
+        "tradeDiv": {
+          "name": "Commercial Trade Division",
+          "role": "Import, wholesale and channel management for vetted product categories with emphasis on partner alignment."
+        },
+        "growth": {
+          "name": "Strategic Growth Projects",
+          "role": "Greenfield initiatives and joint ventures evaluated against rigorous ROI, risk and governance criteria."
+        },
+        "facilities": {
+          "name": "Facilities & Asset Stewardship",
+          "role": "Operational accountability for corporate and member-facing environments with preventive lifecycle planning."
+        }
+      }
+    },
+    "why": {
+      "eyebrow": "Strengths",
+      "title": "Why institutions and operators choose to engage",
+      "items": {
+        "strategic": {
+          "title": "Strategic growth",
+          "body": "We compound value through disciplined prioritization, clear stage gates and capital efficiency—not opportunistic expansion."
+        },
+        "discipline": {
+          "title": "Operational discipline",
+          "body": "Structured playbooks, accountable leadership and measurable KPIs keep complex portfolios coherent at scale."
+        },
+        "service": {
+          "title": "Premium service mindset",
+          "body": "Every touchpoint—member, tenant, supplier or investor—is executed with a holding-company standard of care."
+        },
+        "longterm": {
+          "title": "Long-term value",
+          "body": "We optimize for durable partnerships and resilient cash flows rather than short-term headline wins."
+        }
+      }
+    },
+    "stats": {
+      "eyebrow": "Scale indicators",
+      "title": "Measured footprint, prudent expansion",
+      "note": "Figures below are representative placeholders for presentation purposes. Audited statistics will replace them alongside official reporting.",
+      "sectors": "Core sectors",
+      "initiatives": "Active initiatives",
+      "partners": "Business partners",
+      "years": "Years of operations"
+    },
+    "references": {
+      "eyebrow": "References",
+      "title": "Trusted relationships across select sectors",
+      "lead": "Placeholder partner identities are shown for typographic and grid rhythm only. Approved logo assets and case narratives will follow.",
+      "link": "Full references"
+    },
+    "cta": {
+      "title": "Partnership with precision",
+      "body": "Whether you represent an institutional allocator, a premium operator or a distribution partner, we welcome structured dialogue aligned to mutual standards and governed timelines.",
+      "primary": "Get in touch",
+      "secondary": "Explore activities"
+    }
+  },
+  "Corporate": {
+    "hero": {
+      "eyebrow": "Governance & identity",
+      "title": "Corporate",
+      "desc": "An authoritative view of our positioning, principles and the management system that sustains multi-sector performance."
+    },
+    "profile": { "title": "Company profile", "p1": "Yaralıoğlu Yatırım Ticaret Ltd. functions as a holding-oriented enterprise orchestrating investment, trade and operational assets with clear reporting lines and board-level oversight. Our footprint spans premium physical experiences, supply-side partnerships and development initiatives that reinforce one another strategically.", "p2": "Detailed company information—including registration data, corporate history and official financial highlights—will be presented here in the final content phase to meet disclosure expectations of institutional readers." },
+    "vision": { "title": "Vision", "body": "To be recognized as a benchmark multi-sector operator where capital discipline, guest and partner experience, and compliance converge into durable enterprise value—without relying on superficial brand noise." },
+    "mission": { "title": "Mission", "body": "We deploy structured processes, accountable leadership and selective partnerships to scale trusted platforms in fitness, facilities, trade and business development—measuring outcomes with transparency and a bias toward long-term compounding." },
+    "valuesTitle": "Core values",
+    "values": {
+      "integrity": { "title": "Integrity in execution", "body": "We align public positioning with internal behavior—contracts, safety standards and partner commitments are non-negotiable." },
+      "capital": { "title": "Respect for capital", "body": "Every allocation undergoes stage-gate review; we protect liquidity and avoid vanity projects that erode strategic focus." },
+      "excel": { "title": "Operational excellence", "body": "Playbooks, audits and technology-backed monitoring are embedded across units to reduce variance at scale." },
+      "stakeholder": { "title": "Stakeholder alignment", "body": "Investors, operators, suppliers and communities are considered in major decisions to sustain license to operate." }
+    },
+    "management": { "title": "Management approach", "p1": "Leadership emphasizes delegated authority with centralized guardrails: brand standards, risk appetite, compliance calendars and capital planning are coordinated at holding level, while business units retain agility to serve market nuances. Management forums review performance monthly; strategy and portfolio composition are formally reassessed each cycle.", "p2": "Executive biographies and organization charts will accompany this narrative once approved for external publication." },
+    "strategy": { "title": "Corporate perspective & long-term strategy", "p1": "We pursue a staged growth model: deepen profitability and NPS within existing verticals, introduce adjacencies only when operational leverage is evident, and maintain strategic optionality through research-driven screening of new regions and categories.", "p2": "This section will highlight the company's long-term strategy map, capital allocation priorities and sustainability commitments as they are finalized for the corporate website release." }
+  },
+  "ActivitiesPage": {
+    "hero": { "eyebrow": "What we do", "title": "Activities", "desc": "Four strategic pillars define how we create value, serve partners and compound reputation in competitive categories." },
+    "blocks": {
+      "fitness": { "title": "Sports & Fitness Solutions", "body": "We architect and govern premium wellness environments where program quality, equipment lifecycle and talent standards reinforce brand equity. Capabilities span concept development, operational audits, trainer excellence frameworks and member journey design calibrated for discerning audiences.", "m1": "Programming governance", "m2": "Premium equipment standards", "m3": "Retention analytics", "panelEyebrow": "Visual panel", "panelTitle": "Sports & Fitness Solutions", "panelNote": "This section will highlight the company's strategic activity area with photography and infographics in the final production cycle." },
+      "facility": { "title": "Facility Operations", "body": "From high-traffic athletic venues to corporate amenity floors, we administer preventive maintenance schedules, vendor performance scorecards and emergency readiness protocols. The aim is uninterrupted uptime, brand-consistent aesthetics and predictable cost structures.", "m1": "Uptime KPIs", "m2": "Vendor compliance", "m3": "Lifecycle capital plans", "panelEyebrow": "Visual panel", "panelTitle": "Facility Operations", "panelNote": "This section will highlight the company's strategic activity area with photography and infographics in the final production cycle." },
+      "trade": { "title": "Trade & Distribution", "body": "Selective import, wholesale and channel partnerships are structured around contractual clarity, inventory discipline and ethical sourcing checkpoints. We prioritize relationships that scale with transparent Service Level Agreements and mutual margin integrity.", "m1": "SLA adherence", "m2": "Channel governance", "m3": "Customs readiness", "panelEyebrow": "Visual panel", "panelTitle": "Trade & Distribution", "panelNote": "This section will highlight the company's strategic activity area with photography and infographics in the final production cycle." },
+      "investment": { "title": "Investment & Business Development", "body": "Our investment posture is deliberate: we engage where operational insight can be applied, governance can be strengthened and exit pathways remain realistic. Business development supports joint ventures, tuck-in acquisitions and platform expansions screened against group risk appetite.", "m1": "Stage-gate diligence", "m2": "Portfolio reviews", "m3": "Synergy mapping", "panelEyebrow": "Visual panel", "panelTitle": "Investment & Business Development", "panelNote": "This section will highlight the company's strategic activity area with photography and infographics in the final production cycle." }
+    }
+  },
+  "GroupPage": {
+    "hero": { "eyebrow": "Organization", "title": "Group structure", "desc": "A modular holding architecture designed for transparency today and disciplined expansion tomorrow." },
+    "overview": { "title": "Group overview", "p1": "Yaralıoğlu Yatırım Ticaret Ltd. coordinates autonomous yet aligned business units under shared policies for compliance, technology, procurement and brand. This structure allows each unit to compete effectively in its market while benefiting from group-level capital access and talent mobility.", "p2": "Legal entity diagrams and subsidiary naming will be integrated once finalized with counsel and corporate communications." },
+    "featuredEyebrow": "Featured business unit",
+    "featuredHighlights": "Highlights",
+    "featuredBullets": { "b1": "Signature member and guest experience standards", "b2": "Operational benchmarks adopted group-wide", "b3": "Identified anchor for brand-led diversification" },
+    "secondaryTitle": "Additional business units",
+    "secondaryLead": "Secondary units maintain dedicated P&L accountability while contributing to group synergies in sourcing, real estate and analytics.",
+    "future": { "title": "Future expansion & emerging ventures", "p1": "The group maintains a venture pipeline evaluated against financial thresholds, regulatory feasibility and cultural fit. Emerging themes under exploration include selective hospitality adjacencies, technology-enabled facility analytics and international trade lanes with defensible moats.", "p2": "This section will highlight the company's strategic activity area as initiatives mature from confidentiality into public-ready milestones." },
+    "units": {
+      "flagship": { "name": "Flagship Fitness Operation", "role": "Signature wellness and performance platform; detailed unit narrative will be finalized in the content phase." },
+      "tradeDiv": { "name": "Commercial Trade Division", "role": "Import, wholesale and channel management for vetted product categories with emphasis on partner alignment." },
+      "growth": { "name": "Strategic Growth Projects", "role": "Greenfield initiatives and joint ventures evaluated against rigorous ROI, risk and governance criteria." },
+      "facilities": { "name": "Facilities & Asset Stewardship", "role": "Operational accountability for corporate and member-facing environments with preventive lifecycle planning." }
+    }
+  },
+  "InvestmentsPage": {
+    "hero": { "eyebrow": "Capital & growth", "title": "Investments", "desc": "How we deploy attention and capital—with patience, governance and measurable accountability." },
+    "philosophy": { "title": "Investment philosophy", "body": "We favor situations where operational expertise is a differentiator, downside is understood and upside is driven by execution—not speculation. Capital follows clarity: strategy, organizational readiness and risk mitigation must be in place before material commitment." },
+    "growth": { "title": "Long-term growth approach", "body": "Growth is staged across horizons—12-month operational levers, 24–36 month market expansion and multi-year platform bets. Each horizon carries explicit KPIs, review cadence and optional exit criteria to prevent inertia." },
+    "portfolioTitle": "Strategic project portfolio",
+    "portfolioLead": "Illustrative initiatives below communicate evaluation categories; confidential projects remain undisclosed until appropriate.",
+    "projects": {
+      "p1": { "tag": "Operations technology", "title": "Platform modernization program", "body": "A multi-phase initiative upgrading facility systems, digital member touchpoints and analytics infrastructure across core assets." },
+      "p2": { "tag": "Trade and logistics", "title": "Selective distribution expansion", "body": "Geographic and channel tests executed with pilot economics before broader rollout; emphasizes partner due diligence." },
+      "p3": { "tag": "Brand innovation", "title": "Wellness concept incubation", "body": "R&D for differentiated programming and spatial design aimed at premium urban demographics—subject to stage approvals." }
+    },
+    "sectorsTitle": "Strategic sectors focus",
+    "sectorsLead": "We concentrate where our networks, regulatory familiarity and operational playbooks compound—avoiding opportunistic drift into categories without sustainable advantage.",
+    "sectors": { "s1": "Performance & wellness", "s2": "Facilities & services", "s3": "Consumer trade", "s4": "Strategic corporate development" },
+    "modelTitle": "Value creation model",
+    "modelSteps": {
+      "m1": { "strong": "Diagnose", "text": "— baseline performance, risks and cultural factors before committing resources." },
+      "m2": { "strong": "Design", "text": "— operating model, capital plan and governance cadence with measurable milestones." },
+      "m3": { "strong": "Deliver", "text": "— execution supported by dashboards, audits and transparent stakeholder communications." },
+      "m4": { "strong": "Deepen", "text": "— reinvest where returns and strategic optionality remain compelling; exit or reshape where they do not." }
+    },
+    "roadmap": { "title": "Future roadmap", "p1": "Forward-looking initiatives will be articulated in investor- and partner-ready materials as milestones are achieved. Expect emphasis on digital infrastructure, responsible expansion and adherence to evolving ESG disclosure norms.", "p2": "Detailed company information will be presented here to reflect audited results, pipeline updates and governance enhancements on a periodic basis." }
+  },
+  "ReferencesPage": {
+    "hero": { "eyebrow": "Trust & network", "title": "References", "desc": "Selected relationships that illustrate how we collaborate with premium operators, industrial partners and institutional stakeholders." },
+    "trustedTitle": "Trusted by a focused business network",
+    "trustedLead": "We pursue depth over volume: fewer relationships, higher mutual standards and accountable delivery. The identities below are typographic placeholders until partner approvals and brand guidelines authorize public logo usage.",
+    "gridTitle": "Logo grid",
+    "gridLead": "Hover states reveal emphasis; approved artwork will replace text lockups in production.",
+    "testimonialsTitle": "Partner perspectives",
+    "testimonialsLead": "Illustrative testimonials; names and organizations are placeholders pending formal authorization.",
+    "t1": { "quote": "A rare combination of athletic-grade operational detail and corporate governance. Engagements were structured, deadlines respected and communication candid throughout.", "name": "Placeholder — Managing Director", "org": "Industrial distribution partner" },
+    "t2": { "quote": "Their facility team thinks in systems, not tickets. We saw measurable uptime improvements within the first review cycle.", "name": "Placeholder — Head of Operations", "org": "Premium wellness platform" },
+    "t3": { "quote": "Due diligence felt institutional without becoming bureaucratic—clear stage gates and transparent risk conversations.", "name": "Placeholder — Investment lead", "org": "Regional development fund" },
+    "sectorsTitle": "Sectors served",
+    "sectorsLead": "Our work spans categories that reward consistency, compliance and premium service delivery. Sector lists will evolve as initiatives mature and new verticals are announced through official channels.",
+    "sectorTags": { "s1": "Sports & performance", "s2": "Facilities management", "s3": "Import & wholesale", "s4": "Corporate services", "s5": "Hospitality adjacencies" }
+  },
+  "MediaPage": {
+    "hero": { "eyebrow": "Visual stories", "title": "Media center", "desc": "An editorial window into how we build, operate and evolve—presented with the same precision as our annual reporting." },
+    "galleryTitle": "Gallery",
+    "galleryLead": "Categories help audiences navigate imagery by intent. High-resolution photography and videography will replace gradient placeholders during the content integration phase.",
+    "categories": { "all": "All", "facilities": "Facilities", "operations": "Operations", "corporate": "Corporate", "projects": "Projects" },
+    "cardEditorial": "Editorial placeholder",
+    "view": "View",
+    "lightboxAria": "Media preview",
+    "lightboxClose": "Close",
+    "lightboxTitle": "Professional photography placeholder",
+    "lightboxBody": "High-resolution corporate and performance imagery will replace this panel. The lightbox demonstrates editorial presentation for facilities, operations and strategic project storytelling.",
+    "itemLabel": "{category} — visual {n}"
+  },
+  "ContactPage": {
+    "hero": { "eyebrow": "Engage with confidence", "title": "Contact", "desc": "Structured channels for partnership exploration, procurement discussions and corporate communications." },
+    "inquiryTitle": "Business inquiry",
+    "inquiryLead": "For institutional correspondence, supplier onboarding or media requests, please route through the appropriate channel once official contact trees are published. Until then, this page demonstrates premium form design and information architecture.",
+    "addressLabel": "Address",
+    "phoneLabel": "Phone",
+    "emailLabel": "Email",
+    "hoursLabel": "Hours",
+    "ctaBoxTitle": "Partnership CTA",
+    "ctaBoxBody": "If you are evaluating a joint venture, asset partnership or operational collaboration, include timelines and governance preferences in your note.",
+    "ctaBoxButton": "Review investment posture",
+    "mapTitle": "Map placeholder",
+    "mapLead": "Official contact details and embedded mapping will be added in the final content phase. Geolocation is intentionally omitted at this design stage.",
+    "mapPlaceholder": "Map integration placeholder — premium cartographic styling to match corporate UI upon release."
+  },
+  "ContactForm": {
+    "name": "Full name",
+    "email": "Email",
+    "subject": "Subject",
+    "message": "Message",
+    "phName": "Your name",
+    "phEmail": "you@organization.com",
+    "phSubject": "Partnership inquiry, media request, general",
+    "phMessage": "Share context, timelines and preferred contact method.",
+    "hint": "This form is presented for layout purposes. Official routing to business development will be configured in the integration phase.",
+    "submit": "Submit inquiry",
+    "success": "Thank you. Your message has been recorded for demonstration. A confirmation workflow will be connected to production systems later."
+  },
+  "Contact": {
+    "address": "Headquarters address will be published following the final corporate communications review. Business district, metropolitan region.",
+    "hours": "Monday–Friday, 09:00–18:00 (regional business hours)"
+  }
+}
