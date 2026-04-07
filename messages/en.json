@@ -1,15 +1,15 @@
 {
   "Meta": {
-    "siteDescription": "Multi-sector investment, trade and business operations with disciplined execution, strategic growth and premium standards across fitness, facilities, distribution and corporate development.",
+    "siteDescription": "Yaralioglu combines founder-led vision, a multidisciplinary sports model and partnership-focused execution to advance performance, academy development and sustainable wellbeing culture.",
     "pages": {
-      "home": { "title": "Home", "description": "Yaralıoğlu — multi-sector investment, trade and business operations. Strength, trust and premium corporate standards." },
+      "home": { "title": "Home", "description": "Yaralioglu delivers sustainable impact through founder-led leadership, a multidisciplinary sports model and an institutional collaboration approach." },
       "corporate": { "title": "Corporate", "description": "Company profile, vision, mission, core values and long-term strategy." },
-      "activities": { "title": "Activities", "description": "Sports and fitness, facility operations, trade and distribution, and investment-led business development." },
-      "group": { "title": "Group Structure", "description": "Business units, flagship platform and expansion roadmap." },
+      "activities": { "title": "Activities", "description": "Academy and performance training, corporate sports projects and an integrated health model." },
+      "group": { "title": "Group Structure", "description": "Founder-led operating structure, business units and growth domains." },
       "investments": { "title": "Investments", "description": "Investment philosophy, sector focus and value creation model." },
-      "references": { "title": "References", "description": "Partners, network and sectors served." },
+      "references": { "title": "References", "description": "Partnerships, project stakeholders and institutions we co-create value with." },
       "media": { "title": "Media Center", "description": "Editorial gallery for facilities, operations, corporate moments and projects." },
-      "contact": { "title": "Contact", "description": "Business inquiries, partnerships and corporate contact channels." }
+      "contact": { "title": "Contact", "description": "Corporate introduction, project discussions and partnership communication." }
     }
   },
   "Nav": {
@@ -21,7 +21,7 @@
     "references": "References",
     "media": "Media",
     "contact": "Contact",
-    "cta": "Get in touch",
+    "cta": "Let's connect",
     "primaryAria": "Primary"
   },
   "LangSwitcher": { "label": "Language", "tr": "Türkçe", "en": "English" },
@@ -34,52 +34,52 @@
     "socialCorporateAria": "Corporate social channel (placeholder)",
     "socialNewsAria": "News and updates channel (placeholder)",
     "rights": "All rights reserved.",
-    "placeholderNote": "Corporate communications materials are representative placeholders.",
+    "placeholderNote": "All content is reviewed and updated regularly in our corporate communication language.",
     "copyright": "© {year} Yaralıoğlu Yatırım Ticaret Ltd."
   },
   "Home": {
     "hero": {
-      "eyebrow": "Holding-grade execution",
+      "eyebrow": "Founder vision and institutional approach",
       "title": "Yaralıoğlu Yatırım Ticaret Ltd.",
-      "sub": "Multi-sector investment, trade and business operations.",
-      "body": "We align institutional discipline with a performance-led mindset across sports and fitness platforms, facility operations, trade networks and strategic investment initiatives—built for scale, governance and sustained relevance in competitive markets.",
-      "ctaPrimary": "Start a conversation",
+      "sub": "A corporate structure focused on sports culture, performance discipline and social impact.",
+      "body": "Built on founder Selcuk Yaralioglu's national athlete, coaching and academic background, our approach turns athlete development, healthy living culture and institutional partnerships into measurable long-term impact. Our multidisciplinary model integrates training, performance, nutrition, physiotherapy, rehabilitation and recovery under one system.",
+      "ctaPrimary": "Book a corporate introduction call",
       "ctaSecondary": "Corporate profile",
       "scroll": "Scroll"
     },
     "intro": {
-      "eyebrow": "Corporate introduction",
-      "title": "A disciplined multi-sector platform",
-      "p1": "Yaralıoğlu Yatırım Ticaret Ltd. operates as a structured corporate group with clear accountability across complementary verticals. Our mandate is straightforward: deploy capital and operational expertise where standards, scale and strategic fit converge—without diluting brand integrity or long-term financial health.",
-      "p2": "Detailed corporate disclosures, leadership profiles and governance documentation will be presented in the final content phase. This section establishes the authoritative narrative tone for stakeholders evaluating partnership and investment dialogue.",
-      "panelEyebrow": "Operating snapshot",
+      "eyebrow": "Who we are",
+      "title": "We see sport as character building, not only performance",
+      "p1": "Yaralioglu began with founder Selcuk Yaralioglu's early responsibilities as a national athlete and coach. From the first facility onward, combat sports, performance training and crossfit were combined with sports nutrition, physiotherapy, rehabilitation and recovery to build one of the early multidisciplinary models in the field.",
+      "p2": "Today, we scale this approach through academy development and institutional project collaboration. Our priority is not short-term commercial gain, but helping children and individuals experience the transformative value of sport and supporting the growth of healthy, disciplined and resilient people.",
+      "panelEyebrow": "Approach snapshot",
       "panelGov": "Governance model",
-      "panelGovVal": "Central holding",
+      "panelGovVal": "Founder-led institutional structure",
       "panelArch": "Business architecture",
-      "panelArchVal": "Four core sectors",
+      "panelArchVal": "Multidisciplinary sports and development model",
       "panelEng": "Engagement posture",
-      "panelEngVal": "Institutional & selective"
+      "panelEngVal": "Introduction and partnership focused"
     },
     "activities": {
       "eyebrow": "Activities",
-      "title": "Core business areas, unified by operational rigor",
-      "lead": "Each vertical is managed with bespoke KPIs yet adheres to group-level compliance, reporting and brand standards—supporting a coherent market presence across categories.",
+      "title": "Activity domains uniting sport, health and development",
+      "lead": "Our operating model is built on a holistic system that handles athlete performance, individual development and corporate project delivery with the same quality standard.",
       "cards": {
         "fitness": {
-          "title": "Sports & Fitness Solutions",
-          "description": "Premium operations, programming and facility standards calibrated for performance-led brands and long-term member value."
+          "title": "Academy & Performance Training",
+          "description": "A science-based model that combines combat sports, performance training and structured development programs to raise athletes for long-term progression."
         },
         "facility": {
-          "title": "Facility Operations",
-          "description": "End-to-end stewardship of high-traffic spaces with disciplined maintenance, vendor governance and brand consistency."
+          "title": "Corporate Sports Projects",
+          "description": "Project design, implementation quality and sustainable performance management for institutions, clubs and organizations."
         },
         "trade": {
-          "title": "Trade & Distribution",
-          "description": "Structured trade flows and distribution partnerships anchored in compliance, reliability and scalable logistics."
+          "title": "Field Operations & Training Infrastructure",
+          "description": "An operational approach where training delivery is managed through quality, safety and consistency principles."
         },
         "investment": {
-          "title": "Investment & Business Development",
-          "description": "Selective capital allocation and business architecture supporting sustainable growth across complementary sectors."
+          "title": "Integrated Health Approach",
+          "description": "A multidisciplinary system where nutrition, physiotherapy, rehabilitation and recovery are managed together with performance training."
         }
       }
     },
@@ -110,23 +110,23 @@
     },
     "why": {
       "eyebrow": "Strengths",
-      "title": "Why institutions and operators choose to engage",
+      "title": "Why organizations choose to work with us",
       "items": {
         "strategic": {
-          "title": "Strategic growth",
-          "body": "We compound value through disciplined prioritization, clear stage gates and capital efficiency—not opportunistic expansion."
+          "title": "Leadership shaped by the field",
+          "body": "Founder-level national athlete and coaching experience adds realism, discipline and execution quality to every decision."
         },
         "discipline": {
-          "title": "Operational discipline",
-          "body": "Structured playbooks, accountable leadership and measurable KPIs keep complex portfolios coherent at scale."
+          "title": "Scientific and systematic delivery",
+          "body": "Training design, performance tracking and development programs are supported by academic learning and measurable systems."
         },
         "service": {
-          "title": "Premium service mindset",
-          "body": "Every touchpoint—member, tenant, supplier or investor—is executed with a holding-company standard of care."
+          "title": "Multidisciplinary expertise",
+          "body": "We combine performance work with nutrition, physiotherapy, rehabilitation and recovery to produce stronger long-term outcomes."
         },
         "longterm": {
-          "title": "Long-term value",
-          "body": "We optimize for durable partnerships and resilient cash flows rather than short-term headline wins."
+          "title": "Social impact focus",
+          "body": "Our core priority is not short-term profit, but contributing to healthier, stronger and more resilient individuals."
         }
       }
     },
@@ -146,30 +146,30 @@
       "link": "Full references"
     },
     "cta": {
-      "title": "Partnership with precision",
-      "body": "Whether you represent an institutional allocator, a premium operator or a distribution partner, we welcome structured dialogue aligned to mutual standards and governed timelines.",
-      "primary": "Get in touch",
+      "title": "Open communication for introduction and collaboration",
+      "body": "If your institution is planning a sport, performance or development-focused initiative, we would be pleased to introduce our approach.",
+      "primary": "Book an introduction meeting",
       "secondary": "Explore activities"
     }
   },
   "Corporate": {
     "hero": {
-      "eyebrow": "Governance & identity",
+      "eyebrow": "Founder story and institutional identity",
       "title": "Corporate",
-      "desc": "An authoritative view of our positioning, principles and the management system that sustains multi-sector performance."
+      "desc": "How we sustain long-term impact through founder background, values and an institutional operating model."
     },
-    "profile": { "title": "Company profile", "p1": "Yaralıoğlu Yatırım Ticaret Ltd. functions as a holding-oriented enterprise orchestrating investment, trade and operational assets with clear reporting lines and board-level oversight. Our footprint spans premium physical experiences, supply-side partnerships and development initiatives that reinforce one another strategically.", "p2": "Detailed company information—including registration data, corporate history and official financial highlights—will be presented here in the final content phase to meet disclosure expectations of institutional readers." },
-    "vision": { "title": "Vision", "body": "To be recognized as a benchmark multi-sector operator where capital discipline, guest and partner experience, and compliance converge into durable enterprise value—without relying on superficial brand noise." },
-    "mission": { "title": "Mission", "body": "We deploy structured processes, accountable leadership and selective partnerships to scale trusted platforms in fitness, facilities, trade and business development—measuring outcomes with transparency and a bias toward long-term compounding." },
+    "profile": { "title": "Company profile", "p1": "Yaralioglu was established through founder Selcuk Yaralioglu's vision rooted in national athlete and national coaching experience. From the first facility, combat sports, performance training and crossfit were integrated with sports nutrition, physiotherapy, rehabilitation and recovery, forming a pioneering multidisciplinary model.", "p2": "Developed through field experience, academic progression and international exposure, this model now operates as a sustainable and measurable structure open to institutional collaboration." },
+    "vision": { "title": "Vision", "body": "To scale sport's transformative impact on individuals and society through institutional standards, contributing to healthier and stronger generations." },
+    "mission": { "title": "Mission", "body": "To deliver sustainable development-focused solutions for athletes, young people and partners by combining academy systems, performance training and integrated health support in one framework." },
     "valuesTitle": "Core values",
     "values": {
-      "integrity": { "title": "Integrity in execution", "body": "We align public positioning with internal behavior—contracts, safety standards and partner commitments are non-negotiable." },
-      "capital": { "title": "Respect for capital", "body": "Every allocation undergoes stage-gate review; we protect liquidity and avoid vanity projects that erode strategic focus." },
-      "excel": { "title": "Operational excellence", "body": "Playbooks, audits and technology-backed monitoring are embedded across units to reduce variance at scale." },
-      "stakeholder": { "title": "Stakeholder alignment", "body": "Investors, operators, suppliers and communities are considered in major decisions to sustain license to operate." }
+      "integrity": { "title": "Integrity and commitment", "body": "We keep promises and execution quality aligned at every stage of delivery." },
+      "capital": { "title": "Sustainability", "body": "We prioritize long-term impact over short-term visibility gains." },
+      "excel": { "title": "Scientific development", "body": "Training and development processes are supported by academic knowledge, measurement and continuous improvement." },
+      "stakeholder": { "title": "Social responsibility", "body": "We treat sport not only as competition but as a path to character, discipline and life skills." }
     },
-    "management": { "title": "Management approach", "p1": "Leadership emphasizes delegated authority with centralized guardrails: brand standards, risk appetite, compliance calendars and capital planning are coordinated at holding level, while business units retain agility to serve market nuances. Management forums review performance monthly; strategy and portfolio composition are formally reassessed each cycle.", "p2": "Executive biographies and organization charts will accompany this narrative once approved for external publication." },
-    "strategy": { "title": "Corporate perspective & long-term strategy", "p1": "We pursue a staged growth model: deepen profitability and NPS within existing verticals, introduce adjacencies only when operational leverage is evident, and maintain strategic optionality through research-driven screening of new regions and categories.", "p2": "This section will highlight the company's long-term strategy map, capital allocation priorities and sustainability commitments as they are finalized for the corporate website release." }
+    "management": { "title": "Management approach", "p1": "Our management model combines field-proven experience with structured planning. Program quality, athlete safety, development tracking and team coordination are core priorities. Every project is evaluated through sustainability and measurable-outcome criteria.", "p2": "In institutional collaborations, we work with transparent communication, clear scope and realistic timelines to keep the process understandable for every stakeholder." },
+    "strategy": { "title": "Corporate perspective & long-term strategy", "p1": "Our long-term strategy is to strengthen the academy model, scale multidisciplinary performance methods and deliver high-standard implementation in institutional projects.", "p2": "With a vision shaped by national and international experience, we aim to build an expandable structure that creates lasting value for sports culture in our country." }
   },
   "ActivitiesPage": {
     "hero": { "eyebrow": "What we do", "title": "Activities", "desc": "Four strategic pillars define how we create value, serve partners and compound reputation in competitive categories." },
@@ -248,19 +248,19 @@
     "itemLabel": "{category} — visual {n}"
   },
   "ContactPage": {
-    "hero": { "eyebrow": "Engage with confidence", "title": "Contact", "desc": "Structured channels for partnership exploration, procurement discussions and corporate communications." },
-    "inquiryTitle": "Business inquiry",
-    "inquiryLead": "For institutional correspondence, supplier onboarding or media requests, please route through the appropriate channel once official contact trees are published. Until then, this page demonstrates premium form design and information architecture.",
+    "hero": { "eyebrow": "Let's connect", "title": "Contact", "desc": "Reach us for corporate introduction, project discussions and collaboration evaluations." },
+    "inquiryTitle": "Collaboration and introduction inquiries",
+    "inquiryLead": "If your institution is planning a sport, performance or development-focused initiative, share your scope and our team will respond promptly.",
     "addressLabel": "Address",
     "phoneLabel": "Phone",
     "emailLabel": "Email",
     "hoursLabel": "Hours",
-    "ctaBoxTitle": "Partnership CTA",
-    "ctaBoxBody": "If you are evaluating a joint venture, asset partnership or operational collaboration, include timelines and governance preferences in your note.",
-    "ctaBoxButton": "Review investment posture",
-    "mapTitle": "Map placeholder",
-    "mapLead": "Official contact details and embedded mapping will be added in the final content phase. Geolocation is intentionally omitted at this design stage.",
-    "mapPlaceholder": "Map integration placeholder — premium cartographic styling to match corporate UI upon release."
+    "ctaBoxTitle": "Corporate introduction call",
+    "ctaBoxBody": "A short note including your collaboration goal, institution profile and timeline is enough to start.",
+    "ctaBoxButton": "Explore activity domains",
+    "mapTitle": "Location",
+    "mapLead": "Office and meeting location details are shared upon request.",
+    "mapPlaceholder": "Please use the contact form for location details and meeting planning."
   },
   "ContactForm": {
     "name": "Full name",
@@ -271,12 +271,12 @@
     "phEmail": "you@organization.com",
     "phSubject": "Partnership inquiry, media request, general",
     "phMessage": "Share context, timelines and preferred contact method.",
-    "hint": "This form is presented for layout purposes. Official routing to business development will be configured in the integration phase.",
-    "submit": "Submit inquiry",
-    "success": "Thank you. Your message has been recorded for demonstration. A confirmation workflow will be connected to production systems later."
+    "hint": "Your information is used only for introduction and meeting planning.",
+    "submit": "Send message",
+    "success": "Thank you. Your message has been received and our team will contact you shortly."
   },
   "Contact": {
-    "address": "Headquarters address will be published following the final corporate communications review. Business district, metropolitan region.",
+    "address": "Location details for institutional meetings are shared upon request.",
     "hours": "Monday–Friday, 09:00–18:00 (regional business hours)"
   }
 }

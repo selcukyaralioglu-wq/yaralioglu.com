@@ -1,15 +1,15 @@
 {
   "Meta": {
-    "siteDescription": "Disiplinli yürütme, stratejik büyüme ve fitness, tesisler, dağıtım ile kurumsal gelişimde üst düzey standartlarla çok sektörlü yatırım, ticaret ve iş operasyonları.",
+    "siteDescription": "Yaralıoğlu; kurucu liderliği, çok disiplinli spor yaklaşımı ve kurumsal iş birlikleri odağıyla performans, akademi ve sağlıklı yaşam kültürünü aynı çatı altında birleştiren bir yapıdır.",
     "pages": {
-      "home": { "title": "Ana Sayfa", "description": "Yaralıoğlu — çok sektörlü yatırım, ticaret ve iş operasyonları. Güç, güven ve seçkin kurumsal standartlar." },
+      "home": { "title": "Ana Sayfa", "description": "Yaralıoğlu; kurucu vizyonu, çok disiplinli spor modeli ve kurumsal iş birliği yaklaşımıyla sürdürülebilir etki üretir." },
       "corporate": { "title": "Kurumsal", "description": "Şirket profili, vizyon, misyon, temel değerler ve uzun vadeli strateji." },
-      "activities": { "title": "Faaliyetler", "description": "Spor ve fitness, tesis operasyonları, ticaret ve dağıtım ile yatırım odaklı iş geliştirme." },
-      "group": { "title": "Grup Yapısı", "description": "İş birimleri, amiral gemisi platform ve genişleme yol haritası." },
+      "activities": { "title": "Faaliyetler", "description": "Akademi, performans antrenmanları, kurumsal spor projeleri ve entegre sağlık yaklaşımı." },
+      "group": { "title": "Grup Yapısı", "description": "Kurucu liderliğinde gelişen operasyon yapısı, iş birimleri ve büyüme alanları." },
       "investments": { "title": "Yatırımlar", "description": "Yatırım felsefesi, sektör odağı ve değer yaratma modeli." },
-      "references": { "title": "Referanslar", "description": "Ortaklar, iş ağı ve hizmet verilen sektörler." },
+      "references": { "title": "Referanslar", "description": "İş birlikleri, proje paydaşları ve birlikte değer ürettiğimiz kurumlar." },
       "media": { "title": "Medya Merkezi", "description": "Tesisler, operasyonlar, kurumsal anlar ve projeler için editöryal galeri." },
-      "contact": { "title": "İletişim", "description": "İş görüşmeleri, ortaklıklar ve kurumsal iletişim kanalları." }
+      "contact": { "title": "İletişim", "description": "Kurumsal tanıtım, proje görüşmeleri ve iş birliği iletişimi." }
     }
   },
   "Nav": {
@@ -21,7 +21,7 @@
     "references": "Referanslar",
     "media": "Medya",
     "contact": "İletişim",
-    "cta": "İletişime geçin",
+    "cta": "Tanışalım",
     "primaryAria": "Ana menü"
   },
   "LangSwitcher": { "label": "Dil", "tr": "Türkçe", "en": "English" },
@@ -34,52 +34,52 @@
     "socialCorporateAria": "Kurumsal sosyal kanal (yer tutucu)",
     "socialNewsAria": "Haber ve duyurular kanalı (yer tutucu)",
     "rights": "Tüm hakları saklıdır.",
-    "placeholderNote": "Kurumsal iletişim metinleri temsili yer tutuculardır.",
+    "placeholderNote": "Tüm içerikler kurumsal iletişim diliyle düzenli olarak güncellenmektedir.",
     "copyright": "© {year} Yaralıoğlu Yatırım Ticaret Ltd."
   },
   "Home": {
     "hero": {
-      "eyebrow": "Holding düzeyinde yürütüm",
+      "eyebrow": "Kurucu vizyonu ve kurumsal yaklaşım",
       "title": "Yaralıoğlu Yatırım Ticaret Ltd.",
-      "sub": "Çok sektörlü yatırım, ticaret ve iş operasyonları.",
-      "body": "Kurumsal disiplini; spor ve wellness platformları, tesis operasyonları, ticaret ağları ve stratejik yatırım girişimlerinde performans odaklı bir yaklaşımla birleştiriyoruz — ölçek, yönetişim ve rekabetçi piyasalarda sürdürülebilir öngörülebilirlik için tasarlandı.",
-      "ctaPrimary": "Görüşme başlatın",
+      "sub": "Spor kültürü, performans disiplini ve toplumsal etki odaklı kurumsal yapı.",
+      "body": "Kurucu Selçuk Yaralıoğlu’nun milli sporculuk, antrenörlük ve akademik birikiminden doğan yaklaşımı; sporcu gelişimi, sağlıklı yaşam kültürü ve kurumsal iş birlikleriyle sürdürülebilir etkiye dönüştürüyoruz. Çok disiplinli modelimizde antrenman, performans, beslenme, fizyoterapi, rehabilitasyon ve recovery süreçleri aynı çatı altında bütüncül biçimde ele alınır.",
+      "ctaPrimary": "Kurumsal tanıtım için iletişime geçin",
       "ctaSecondary": "Kurumsal profil",
       "scroll": "Kaydır"
     },
     "intro": {
-      "eyebrow": "Kurumsal tanıtım",
-      "title": "Disiplinli çok sektörlü platform",
-      "p1": "Yaralıoğlu Yatırım Ticaret Ltd., tamamlayıcı dikeyler arasında net hesap verebilirlik ile yapılandırılmış bir kurumsal grup olarak faaliyet gösterir. Görev tanımımız nettir: marka bütünlüğünü veya uzun vadeli finansal sağlığı zayıflatmadan, standart, ölçek ve stratejik uyumun buluştuğu alanlarda sermaye ve operasyonel uzmanlık konumlandırmak.",
-      "p2": "Ayrıntılı kurumsal açıklamalar, yönetim profilleri ve yönetişim dokümantasyonu nihai içerik aşamasında sunulacaktır. Bu bölüm, ortaklık ve yatırım diyaloğu değerlendiren paydaşlar için otoriter anlatı tonunu oluşturur.",
-      "panelEyebrow": "Operasyon özeti",
+      "eyebrow": "Biz kimiz",
+      "title": "Sporu sadece performans değil, karakter inşası olarak görüyoruz",
+      "p1": "Yaralıoğlu’nun çıkış noktası; kurucu Selçuk Yaralıoğlu’nun erken yaşta üstlendiği milli sporculuk ve antrenörlük sorumluluklarıdır. İlk merkezde dövüş sporları, performans antrenmanları ve crossfit yaklaşımı bir araya getirilmiş; devamında sporcu diyetisyeni, fizyoterapi, rehabilitasyon ve recovery hizmetleriyle çok disiplinli bir model kurulmuştur.",
+      "p2": "Bugün bu yaklaşımı, akademi yapılanması ve kurumsal proje kültürüyle büyütüyoruz. Önceliğimiz kısa vadeli ticari kazanç değil; çocuklara ve bireylere sporun dönüştürücü etkisini doğru yöntemlerle aktarmak, sağlıklı ve karakterli bireylerin gelişimine katkı sunmaktır.",
+      "panelEyebrow": "Yaklaşım özeti",
       "panelGov": "Yönetişim modeli",
-      "panelGovVal": "Merkezi holding",
+      "panelGovVal": "Kurucu liderliğinde kurumsal yapı",
       "panelArch": "İş mimarisi",
-      "panelArchVal": "Dört ana sektör",
+      "panelArchVal": "Çok disiplinli spor ve gelişim modeli",
       "panelEng": "İlişki yaklaşımı",
-      "panelEngVal": "Kurumsal ve seçici"
+      "panelEngVal": "Tanıtım ve iş birliği odaklı"
     },
     "activities": {
       "eyebrow": "Faaliyet alanları",
-      "title": "Operasyonel titizlikle bütünleşen çekirdek iş alanları",
-      "lead": "Her dikey, kendine özgü KPI’larla yönetilir; grup düzeyinde uyumluluk, raporlama ve marka standartlarına uyumu sürdürerek kategoriler arası tutarlı bir pazar varlığını destekler.",
+      "title": "Spor, sağlık ve gelişimi birleştiren faaliyet alanları",
+      "lead": "Faaliyet modelimiz; sporcu performansını, bireysel gelişimi ve kurumsal proje üretimini aynı standartta ele alan bütüncül bir yapı üzerine kuruludur.",
       "cards": {
         "fitness": {
-          "title": "Spor ve Fitness Çözümleri",
-          "description": "Performans odaklı markalar ve uzun vadeli üye değeri için ayarlanmış üst düzey operasyonlar, programlama ve tesis standartları."
+          "title": "Akademi ve Performans Antrenmanları",
+          "description": "Dövüş sporları, performans antrenmanları ve gelişim programlarını bilimsel temelde birleştiren, sporcuyu uzun vadeli yetiştirmeyi hedefleyen eğitim modeli."
         },
         "facility": {
-          "title": "Tesis Operasyonları",
-          "description": "Yoğun trafikli mekânlarda disiplinli bakım, tedarikçi yönetişimi ve marka tutarlılığı ile uçtan uca sorumluluk."
+          "title": "Kurumsal Spor Projeleri",
+          "description": "Kulüpler, kurumlar ve organizasyonlar için proje tasarımı, uygulama standardı ve sürdürülebilir performans yönetimi."
         },
         "trade": {
-          "title": "Ticaret ve Dağıtım",
-          "description": "Uyumluluk, güvenilirlik ve ölçeklenebilir lojistik üzerine kurulu yapılandırılmış ticaret akışları ve dağıtım ortaklıkları."
+          "title": "Saha Operasyonları ve Eğitim Altyapısı",
+          "description": "Antrenman süreçlerinin kalite, güvenlik ve süreklilik ilkeleriyle yönetildiği operasyon yaklaşımı."
         },
         "investment": {
-          "title": "Yatırım ve İş Geliştirme",
-          "description": "Tamamlayıcı sektörlerde sürdürülebilir büyümeyi destekleyen seçici sermaye tahsisi ve iş mimarisi."
+          "title": "Entegre Sağlık Yaklaşımı",
+          "description": "Beslenme, fizyoterapi, rehabilitasyon ve recovery süreçlerinin performans antrenmanı ile birlikte yönetildiği çok disiplinli sistem."
         }
       }
     },
@@ -110,23 +110,23 @@
     },
     "why": {
       "eyebrow": "Güçlü yönler",
-      "title": "Kurumların ve operatörlerin iş birliği neden seçtiği",
+      "title": "Neden birlikte çalışıyoruz",
       "items": {
         "strategic": {
-          "title": "Stratejik büyüme",
-          "body": "Disiplinli önceliklendirme, net aşama kapıları ve sermaye verimliliği ile değer biriktiririz — fırsatçı genişleme değil."
+          "title": "Sahadan gelen liderlik",
+          "body": "Kurucu seviyesinde milli sporculuk ve antrenörlük tecrübesi, karar süreçlerimize doğrudan kalite ve gerçekçilik kazandırır."
         },
         "discipline": {
-          "title": "Operasyonel disiplin",
-          "body": "Yapılandırılmış playbook’lar, hesap verebilir liderlik ve ölçülebilir KPI’lar, karmaşık portföyleri ölçekte tutarlı tutar."
+          "title": "Bilimsel ve sistemli yaklaşım",
+          "body": "Antrenman planlama, performans takibi ve gelişim süreçleri akademik birikimle desteklenen ölçülebilir sistemler üzerinden ilerler."
         },
         "service": {
-          "title": "Üst düzene hizmet anlayışı",
-          "body": "Her temas noktası — üye, kiracı, tedarikçi veya yatırımcı — holding düzeyinde bir özen standardıyla yürütülür."
+          "title": "Çok disiplinli uzmanlık",
+          "body": "Spor performansını beslenme, fizyoterapi, rehabilitasyon ve recovery ile birlikte ele alarak daha kalıcı sonuçlar üretiriz."
         },
         "longterm": {
-          "title": "Uzun vadeli değer",
-          "body": "Kısa vadeli görünürlük kazanımlarından çok, kalıcı ortaklıklar ve dayanıklı nakit akışları için optimize ederiz."
+          "title": "Toplumsal etki odağı",
+          "body": "Önceliğimiz kısa vadeli ticari kazanç değil; sağlıklı, disiplinli ve güçlü bireylerin yetişmesine katkı sunmaktır."
         }
       }
     },
@@ -146,30 +146,30 @@
       "link": "Tüm referanslar"
     },
     "cta": {
-      "title": "Hassasiyetle ortaklık",
-      "body": "Kurumsal bir tahsisatçı, seçkin bir operatör veya dağıtım ortağı temsil ediyor olun — karşılıklı standartlara ve yönetilen zaman çizelgelerine uygun yapılandırılmış diyaloğa açığız.",
-      "primary": "İletişime geçin",
+      "title": "Tanıtım ve iş birliği için açık iletişim",
+      "body": "Kurumunuz için spor, performans veya gelişim odaklı bir proje planlıyorsanız yaklaşımımızı tanıtmaktan memnuniyet duyarız.",
+      "primary": "Tanıtım görüşmesi planlayın",
       "secondary": "Faaliyetleri keşfedin"
     }
   },
   "Corporate": {
     "hero": {
-      "eyebrow": "Yönetişim ve kimlik",
+      "eyebrow": "Kurucu hikayesi ve kurum kimliği",
       "title": "Kurumsal",
-      "desc": "Konumlandırmamız, ilkelerimiz ve çok sektörlü performansı sürdüren yönetim sistemimize otoriter bir bakış."
+      "desc": "Kurucu geçmişimiz, değerlerimiz ve kurumsal çalışma modelimizle etkiyi nasıl sürdürülebilir hale getirdiğimizi anlatıyoruz."
     },
-    "profile": { "title": "Şirket profili", "p1": "Yaralıoğlu Yatırım Ticaret Ltd., net raporlama hatları ve yönetim kurulu gözetimiyle yatırım, ticaret ve operasyonel varlıkları orkestre eden holding yönelimli bir kuruluş olarak faaliyet gösterir. Ayak izimiz seçkin fiziksel deneyimleri, tedarik tarafı ortaklıklarını ve birbirini stratejik olarak güçlendiren gelişim girişimlerini kapsar.", "p2": "Kayıt verileri, kurumsal tarihçe ve resmî finansal öne çıkanlar dahil ayrıntılı şirket bilgileri, kurumsal okuyucuların açıklama beklentilerini karşılamak üzere nihai içerik aşamasında burada sunulacaktır." },
-    "vision": { "title": "Vizyon", "body": "Sermaye disiplini, misafir ve ortak deneyimi ile uyumun yüzeysel marka gürültüsüne güvenmeden kalıcı kurumsal değerde buluştuğu referans çok sektörlü operatör olarak tanınmak." },
-    "mission": { "title": "Misyon", "body": "Fitness, tesisler, ticaret ve iş geliştirme alanlarında güvenilir platformları ölçeklendirmek için yapılandırılmış süreçler, hesap verebilir liderlik ve seçici ortaklıklar yürütüyoruz — şeffaflıkla ölçülen sonuçlar ve uzun vadeli bileşime eğilimle." },
+    "profile": { "title": "Şirket profili", "p1": "Yaralıoğlu, kurucu Selçuk Yaralıoğlu’nun milli sporculuk ve milli antrenörlük deneyiminden doğan bir vizyonla kurulmuştur. İlk merkezden itibaren dövüş sporları, performans antrenmanları ve crossfit yaklaşımı; sporcu diyetisyeni, fizyoterapi, rehabilitasyon ve recovery süreçleriyle entegre edilerek Türkiye’de öncü bir çok disiplinli model oluşturulmuştur.", "p2": "Kurucu ekibin saha tecrübesi, akademik birikimi ve uluslararası gözlemleriyle gelişen bu model, bugün kurumsal iş birliklerine açık, sürdürülebilir ve ölçülebilir bir yapı olarak konumlanmaktadır." },
+    "vision": { "title": "Vizyon", "body": "Sporun birey ve toplum üzerindeki dönüştürücü etkisini kurumsal standartlarla büyüterek, sağlıklı ve güçlü nesillerin gelişimine katkı sunan örnek bir model olmak." },
+    "mission": { "title": "Misyon", "body": "Akademi, performans ve entegre sağlık yaklaşımını aynı sistemde birleştirerek sporculara, gençlere ve iş ortaklarımıza sürdürülebilir gelişim odaklı çözümler sunmak." },
     "valuesTitle": "Temel değerler",
     "values": {
-      "integrity": { "title": "Yürütümde dürüstlük", "body": "Kamu konumlandırmasını iç davranışla hizalarız — sözleşmeler, güvenlik standartları ve ortak taahhütleri pazarlığa açık değildir." },
-      "capital": { "title": "Sermayeye saygı", "body": "Her tahsisat aşama kapısı incelemesinden geçer; likiditeyi koruruz ve stratejik odağı aşındıran gösteriş projelerinden kaçınırız." },
-      "excel": { "title": "Operasyonel mükemmellik", "body": "Playbook’lar, denetimler ve teknoloji destekli izleme, varyansı ölçekte azaltmak üzere birimler geneline gömülüdür." },
-      "stakeholder": { "title": "Paydaş uyumu", "body": "Yatırımcılar, operatörler, tedarikçiler ve topluluklar, faaliyet izni sürdürmek için büyük kararlarda dikkate alınır." }
+      "integrity": { "title": "Dürüstlük ve emek", "body": "Sahada verdiğimiz söz ile uygulamada gösterdiğimiz kaliteyi aynı çizgide tutarız." },
+      "capital": { "title": "Sürdürülebilirlik", "body": "Hızlı görünürlük yerine uzun vadeli etki üreten adımları tercih ederiz." },
+      "excel": { "title": "Bilimsel gelişim", "body": "Antrenman ve gelişim süreçlerini akademik bilgi, ölçüm ve sürekli iyileştirme ile destekleriz." },
+      "stakeholder": { "title": "Toplumsal sorumluluk", "body": "Sporu yalnızca rekabet değil, karakter ve yaşam disiplini kazandıran bir eğitim alanı olarak görürüz." }
     },
-    "management": { "title": "Yönetim yaklaşımı", "p1": "Liderlik, merkezi güvenlik bariyerleri ile yetki devrini vurgular: marka standartları, risk iştahı, uyumluluk takvimleri ve sermaye planlaması holding düzeyinde koordine edilir; iş birimleri pazar nüanslarına çevik kalır. Yönetim forumları performansı aylık inceler; strateji ve portföy bileşimi her döngüde biçimsel olarak yeniden değerlendirilir.", "p2": "Yönetici biyografileri ve organizasyon şemaları, harici yayıma onay sonrası bu anlatıya eşlik edecektir." },
-    "strategy": { "title": "Kurumsal bakış ve uzun vadeli strateji", "p1": "Aşamalı bir büyüme modeli izliyoruz: mevcut dikeylerde kârlılığı ve NPS’i derinleştirmek, operasyonel kaldıraç belirgin olmadan yan unsurları tanıtmamak ve yeni bölgeler ile kategorilerin araştırma temelli taranmasıyla stratejik opsiyonaliteyi korumak.", "p2": "Bu bölüm, kurumsal web sitesi yayını için nihai hâle getirildiğinde şirketin uzun vadeli strateji haritası, sermaye tahsis öncelikleri ve sürdürülebilirlik taahhütlerini öne çıkaracaktır." }
+    "management": { "title": "Yönetim yaklaşımı", "p1": "Yönetim modelimiz; sahadan gelen tecrübeyi sistemli planlama ile birleştirir. Program kalitesi, sporcu güvenliği, gelişim takibi ve ekip koordinasyonu temel önceliklerimizdir. Her proje, sürdürülebilirlik ve ölçülebilir çıktı kriterleriyle değerlendirilir.", "p2": "Kurumsal iş birliklerinde açık iletişim, net kapsam ve uygulanabilir zaman planı ile çalışır; süreci her paydaş için anlaşılır ve şeffaf yürütürüz." },
+    "strategy": { "title": "Kurumsal bakış ve uzun vadeli strateji", "p1": "Uzun vadeli stratejimiz; akademi modelini güçlendirmek, çok disiplinli performans yaklaşımını yaygınlaştırmak ve kurumsal projelerde yüksek standartta uygulama üretmektir.", "p2": "Ulusal ve uluslararası deneyimlerden beslenen vizyonumuzla, ülkemizde spor kültürüne kalıcı katkı sağlayan ölçeklenebilir bir yapı inşa etmeyi hedefliyoruz." }
   },
   "ActivitiesPage": {
     "hero": { "eyebrow": "Ne yapıyoruz", "title": "Faaliyetler", "desc": "Rekabetçi kategorilerde değer yaratma, ortaklara hizmet ve itibar biriktirme biçimimizi tanımlayan dört stratejik sütun." },
@@ -248,19 +248,19 @@
     "itemLabel": "{category} — görsel {n}"
   },
   "ContactPage": {
-    "hero": { "eyebrow": "Güvenle iletişim", "title": "İletişim", "desc": "Ortaklık keşfi, tedarik görüşmeleri ve kurumsal iletişim için yapılandırılmış kanallar." },
-    "inquiryTitle": "İş görüşmesi",
-    "inquiryLead": "Kurumsal yazışma, tedarikçi kaydı veya medya talepleri için resmî iletişim ağaçları yayımlandıktan sonra uygun kanalı kullanın. Şimdilik bu sayfa seçkin form tasarımı ve bilgi mimarisini gösterir.",
+    "hero": { "eyebrow": "Tanışalım", "title": "İletişim", "desc": "Kurumsal tanıtım, proje görüşmeleri ve iş birliği değerlendirmeleri için bizimle iletişime geçin." },
+    "inquiryTitle": "İş birliği ve tanıtım görüşmeleri",
+    "inquiryLead": "Kurumunuza özel spor, performans veya gelişim odaklı bir çalışma planlıyorsanız kapsamı paylaşın; ekibimiz en kısa sürede dönüş sağlasın.",
     "addressLabel": "Adres",
     "phoneLabel": "Telefon",
     "emailLabel": "E-posta",
     "hoursLabel": "Çalışma saatleri",
-    "ctaBoxTitle": "Ortaklık çağrısı",
-    "ctaBoxBody": "Ortak girişim, varlık ortaklığı veya operasyonel iş birliği değerlendiriyorsanız notunuza zaman çizelgeleri ve yönetişim tercihlerini ekleyin.",
-    "ctaBoxButton": "Yatırım duruşunu inceleyin",
-    "mapTitle": "Harita yer tutucusu",
-    "mapLead": "Resmî iletişim ayrıntıları ve gömülü harita nihai içerik aşamasında eklenecektir. Bu tasarım aşamasında konum bilinçli biçimde dışarıda bırakılmıştır.",
-    "mapPlaceholder": "Harita entegrasyonu yer tutucusu — yayında kurumsal arayüzle eşleşen seçkin kartografik stil."
+    "ctaBoxTitle": "Kurumsal tanıtım çağrısı",
+    "ctaBoxBody": "İş birliği hedefinizi, kurum profilinizi ve zaman planınızı kısa bir notla paylaşmanız yeterlidir.",
+    "ctaBoxButton": "Faaliyet alanlarını inceleyin",
+    "mapTitle": "Konum",
+    "mapLead": "Ofis ve görüşme lokasyon bilgileri talep doğrultusunda paylaşılmaktadır.",
+    "mapPlaceholder": "Lokasyon bilgisi ve görüşme planı için iletişim formunu kullanabilirsiniz."
   },
   "ContactForm": {
     "name": "Ad soyad",
@@ -271,12 +271,12 @@
     "phEmail": "siz@kurum.com",
     "phSubject": "Ortaklık talebi, medya, genel",
     "phMessage": "Bağlam, zaman çizelgesi ve tercih ettiğiniz iletişim yöntemini paylaşın.",
-    "hint": "Bu form düzen amaçlıdır. İş geliştirme yönlendirmesi entegrasyon aşamasında yapılandırılacaktır.",
-    "submit": "Talebi gönder",
-    "success": "Teşekkürler. Mesajınız gösterim için kaydedildi. Onay akışı üretim sistemlerine sonradan bağlanacaktır."
+    "hint": "Paylaştığınız bilgiler yalnızca görüşme planlaması için kullanılır.",
+    "submit": "Mesajı gönder",
+    "success": "Teşekkürler. Mesajınız alınmıştır, ekibimiz en kısa sürede sizinle iletişime geçecektir."
   },
   "Contact": {
-    "address": "Genel merkez adresi, nihai kurumsal iletişim incelemesi sonrası yayınlanacaktır. İş bölgesi, metropol bölgesi.",
+    "address": "Kurumsal görüşmeler için lokasyon bilgisi talep sonrası paylaşılmaktadır.",
     "hours": "Pazartesi–Cuma, 09:00–18:00 (bölgesel mesai)"
   }
 }
