@@ -1,15 +1,15 @@
 {
   "Meta": {
-    "siteDescription": "Yaralıoğlu; kurucu liderliği, çok disiplinli spor yaklaşımı ve kurumsal iş birlikleri odağıyla performans, akademi ve sağlıklı yaşam kültürünü aynı çatı altında birleştiren bir yapıdır.",
+    "siteDescription": "Yaralıoğlu; inşaat, spor salonu işletmesi, spor ekipmanları ticareti-kurulumu-danışmanlık ve sporcu ürünleri dağıtımını aynı çatı altında birleştiren çok ayaklı bir kurumsal yapıdır.",
     "pages": {
-      "home": { "title": "Ana Sayfa", "description": "Yaralıoğlu; kurucu vizyonu, çok disiplinli spor modeli ve kurumsal iş birliği yaklaşımıyla sürdürülebilir etki üretir." },
+      "home": { "title": "Ana Sayfa", "description": "Yaralıoğlu; inşaat, spor işletmeciliği, ekipman çözümleri ve ürün dağıtımı alanlarında dengeli bir iş modeli sunar." },
       "corporate": { "title": "Kurumsal", "description": "Şirket profili, vizyon, misyon, temel değerler ve uzun vadeli strateji." },
-      "activities": { "title": "Faaliyetler", "description": "Akademi, performans antrenmanları, kurumsal spor projeleri ve entegre sağlık yaklaşımı." },
-      "group": { "title": "Grup Yapısı", "description": "Kurucu liderliğinde gelişen operasyon yapısı, iş birimleri ve büyüme alanları." },
+      "activities": { "title": "Faaliyetler", "description": "İnşaat, spor salonu işletmesi, ekipman ticareti-kurulumu-danışmanlığı ve ürün dağıtım faaliyetleri." },
+      "group": { "title": "Grup Yapısı", "description": "İş kollarının birlikte çalıştığı organizasyon modeli ve büyüme alanları." },
       "investments": { "title": "Yatırımlar", "description": "Yatırım felsefesi, sektör odağı ve değer yaratma modeli." },
-      "references": { "title": "Referanslar", "description": "İş birlikleri, proje paydaşları ve birlikte değer ürettiğimiz kurumlar." },
+      "references": { "title": "Referanslar", "description": "Kurumsal proje paydaşları, tedarik ağı ve iş birliği ilişkileri." },
       "media": { "title": "Medya Merkezi", "description": "Tesisler, operasyonlar, kurumsal anlar ve projeler için editöryal galeri." },
-      "contact": { "title": "İletişim", "description": "Kurumsal tanıtım, proje görüşmeleri ve iş birliği iletişimi." }
+      "contact": { "title": "İletişim", "description": "B2B proje iş birlikleri ve B2C ürün-hizmet talepleri için iletişim kanalları." }
     }
   },
   "Nav": {
@@ -21,7 +21,7 @@
     "references": "Referanslar",
     "media": "Medya",
     "contact": "İletişim",
-    "cta": "Tanışalım",
+    "cta": "Tanıtım görüşmesi",
     "primaryAria": "Ana menü"
   },
   "LangSwitcher": { "label": "Dil", "tr": "Türkçe", "en": "English" },
@@ -34,161 +34,161 @@
     "socialCorporateAria": "Kurumsal sosyal kanal (yer tutucu)",
     "socialNewsAria": "Haber ve duyurular kanalı (yer tutucu)",
     "rights": "Tüm hakları saklıdır.",
-    "placeholderNote": "Tüm içerikler kurumsal iletişim diliyle düzenli olarak güncellenmektedir.",
+    "placeholderNote": "İçerikler faaliyet alanlarımızın gelişimine paralel olarak güncellenmektedir.",
     "copyright": "© {year} Yaralıoğlu Yatırım Ticaret Ltd."
   },
   "Home": {
     "hero": {
-      "eyebrow": "Kurucu vizyonu ve kurumsal yaklaşım",
+      "eyebrow": "Çok ayaklı kurumsal yapı",
       "title": "Yaralıoğlu Yatırım Ticaret Ltd.",
-      "sub": "Spor kültürü, performans disiplini ve toplumsal etki odaklı kurumsal yapı.",
-      "body": "Kurucu Selçuk Yaralıoğlu’nun milli sporculuk, antrenörlük ve akademik birikiminden doğan yaklaşımı; sporcu gelişimi, sağlıklı yaşam kültürü ve kurumsal iş birlikleriyle sürdürülebilir etkiye dönüştürüyoruz. Çok disiplinli modelimizde antrenman, performans, beslenme, fizyoterapi, rehabilitasyon ve recovery süreçleri aynı çatı altında bütüncül biçimde ele alınır.",
-      "ctaPrimary": "Kurumsal tanıtım için iletişime geçin",
-      "ctaSecondary": "Kurumsal profil",
+      "sub": "İnşaat, spor işletmeciliği, ekipman çözümleri ve ürün dağıtımı odaklı büyüme modeli.",
+      "body": "Kurucu Selçuk Yaralıoğlu’nun sahadan gelen spor tecrübesiyle gelişen Yaralıoğlu; inşaat, spor salonu işletmesi, spor ekipmanları ticareti-kurulumu-danışmanlığı ve sporcu ürünleri dağıtımını entegre eden bir iş modeline sahiptir. B2B projelerde çözüm ortağı, B2C tarafta ise güvenilir hizmet ve ürün sağlayıcısı olarak konumlanır.",
+      "ctaPrimary": "B2B tanıtım görüşmesi planlayın",
+      "ctaSecondary": "Faaliyet alanlarını inceleyin",
       "scroll": "Kaydır"
     },
     "intro": {
-      "eyebrow": "Biz kimiz",
-      "title": "Sporu sadece performans değil, karakter inşası olarak görüyoruz",
-      "p1": "Yaralıoğlu’nun çıkış noktası; kurucu Selçuk Yaralıoğlu’nun erken yaşta üstlendiği milli sporculuk ve antrenörlük sorumluluklarıdır. İlk merkezde dövüş sporları, performans antrenmanları ve crossfit yaklaşımı bir araya getirilmiş; devamında sporcu diyetisyeni, fizyoterapi, rehabilitasyon ve recovery hizmetleriyle çok disiplinli bir model kurulmuştur.",
-      "p2": "Bugün bu yaklaşımı, akademi yapılanması ve kurumsal proje kültürüyle büyütüyoruz. Önceliğimiz kısa vadeli ticari kazanç değil; çocuklara ve bireylere sporun dönüştürücü etkisini doğru yöntemlerle aktarmak, sağlıklı ve karakterli bireylerin gelişimine katkı sunmaktır.",
-      "panelEyebrow": "Yaklaşım özeti",
+      "eyebrow": "Kurucu ve şirket yaklaşımı",
+      "title": "Sahadan doğan tecrübe, kurumsal modele dönüştü",
+      "p1": "Kurucu Selçuk Yaralıoğlu’nun milli sporculuk ve antrenörlük geçmişiyle başlayan yolculuk, ilk etapta dövüş sporları, performans antrenmanları ve crossfit odaklı salon işletmesiyle şekillendi. Ardından sporcu beslenmesi, fizyoterapi, rehabilitasyon ve recovery süreçleri aynı sistem içinde birleştirildi.",
+      "p2": "Bugün bu birikim; inşaat ve tesis geliştirme, spor salonu işletmesi, ekipman ticareti-kurulumu-danışmanlığı ve ürün dağıtımıyla genişleyen dengeli bir iş modeline dönüştü. Sporcu ürünleri, takviye, kozmetik ve dermokozmetik hattında hazırlıklar tamamlanmış olup ürün akışı başlatılmaktadır.",
+      "panelEyebrow": "İş modeli özeti",
       "panelGov": "Yönetişim modeli",
       "panelGovVal": "Kurucu liderliğinde kurumsal yapı",
       "panelArch": "İş mimarisi",
-      "panelArchVal": "Çok disiplinli spor ve gelişim modeli",
+      "panelArchVal": "İnşaat + işletme + ekipman + ürün hattı",
       "panelEng": "İlişki yaklaşımı",
-      "panelEngVal": "Tanıtım ve iş birliği odaklı"
+      "panelEngVal": "B2B birincil, B2C ikincil"
     },
     "activities": {
       "eyebrow": "Faaliyet alanları",
-      "title": "Spor, sağlık ve gelişimi birleştiren faaliyet alanları",
-      "lead": "Faaliyet modelimiz; sporcu performansını, bireysel gelişimi ve kurumsal proje üretimini aynı standartta ele alan bütüncül bir yapı üzerine kuruludur.",
+      "title": "Birbirini besleyen faaliyet alanları",
+      "lead": "Yaralıoğlu, tek bir sektöre bağlı kalmadan ilişkili iş kollarını aynı kalite standardında yöneterek sürdürülebilir büyüme üretir.",
       "cards": {
         "fitness": {
-          "title": "Akademi ve Performans Antrenmanları",
-          "description": "Dövüş sporları, performans antrenmanları ve gelişim programlarını bilimsel temelde birleştiren, sporcuyu uzun vadeli yetiştirmeyi hedefleyen eğitim modeli."
+          "title": "Spor Salonu İşletmesi ve Akademi",
+          "description": "Dövüş sporları ve performans antrenmanları odaklı işletme modeliyle sporcu gelişimini, kulüp yönetimini ve saha operasyonlarını birlikte yürütürüz."
         },
         "facility": {
-          "title": "Kurumsal Spor Projeleri",
-          "description": "Kulüpler, kurumlar ve organizasyonlar için proje tasarımı, uygulama standardı ve sürdürülebilir performans yönetimi."
+          "title": "İnşaat ve Tesis Geliştirme",
+          "description": "Spor ve yaşam odaklı projelerde planlama, uygulama ve işletmeye uygun fiziksel altyapı geliştirme çözümleri sunarız."
         },
         "trade": {
-          "title": "Saha Operasyonları ve Eğitim Altyapısı",
-          "description": "Antrenman süreçlerinin kalite, güvenlik ve süreklilik ilkeleriyle yönetildiği operasyon yaklaşımı."
+          "title": "Ekipman Ticareti, Kurulum ve Danışmanlık",
+          "description": "Spor ekipmanlarının tedarikinden sahaya kurulumuna, teknik danışmanlıktan operasyonel kullanım planına kadar uçtan uca hizmet veririz."
         },
         "investment": {
-          "title": "Entegre Sağlık Yaklaşımı",
-          "description": "Beslenme, fizyoterapi, rehabilitasyon ve recovery süreçlerinin performans antrenmanı ile birlikte yönetildiği çok disiplinli sistem."
+          "title": "Sporcu Ürünleri Dağıtım Hattı",
+          "description": "Sporcu ürünleri, takviye, kozmetik ve dermokozmetik alanında hazırlıkları tamamlanan iş kolumuzla ürün akışını devreye alıyoruz."
         }
       }
     },
     "group": {
       "eyebrow": "Grup yapısı",
-      "title": "Netlik ve genişleme için tasarlanmış iş birimleri",
-      "lead": "Aşağıdaki birim anlatıları genişleme mantığını örnekler. Resmî isimlendirme, yasal yapı şemaları ve iştirak ayrıntıları hazır olduğunda eklenecektir.",
+      "title": "Dengeli çok ayaklı organizasyon yapısı",
+      "lead": "İş kollarımız birbirini tamamlayan operasyonlar olarak yapılandırılmıştır: inşaat ve tesis geliştirme, spor salonu işletmesi, ekipman çözümleri ve ürün dağıtımı.",
       "flagship": "Amiral gemisi platform",
       "link": "Grup özetini görüntüle",
       "units": {
         "flagship": {
-          "name": "Amiral Gemisi Fitness Operasyonu",
-          "role": "İmza wellness ve performans platformu; ayrıntılı birim anlatısı içerik aşamasında netleştirilecektir."
+          "name": "Spor İşletmeciliği ve Akademi Birimi",
+          "role": "Salon işletmesi, performans programları ve sporcu gelişim süreçlerinin yönetildiği ana operasyon birimi."
         },
         "tradeDiv": {
-          "name": "Ticari Ticaret Bölümü",
-          "role": "Doğrulanmış ürün kategorilerinde ithalat, toptan satış ve kanal yönetimi; ortak uyumu ön planda."
+          "name": "Ekipman Ticaret ve Kurulum Birimi",
+          "role": "Spor ekipmanı tedariği, kurulum planlaması, teknik devreye alma ve danışmanlık süreçlerini yürütür."
         },
         "growth": {
-          "name": "Stratejik Büyüme Projeleri",
-          "role": "Sıkı ROI, risk ve yönetişim kriterlerine göre değerlendirilen yeni girişimler ve ortak girişimler."
+          "name": "İnşaat ve Proje Geliştirme Birimi",
+          "role": "Spor ve yaşam alanlarına yönelik inşaat ve altyapı projelerinde planlama, uygulama ve proje koordinasyonu sağlar."
         },
         "facilities": {
-          "name": "Tesisler ve Varlık Yönetimi",
-          "role": "Önleyici yaşam döngüsü planlaması ile kurumsal ve üye odaklı ortamlarda operasyonel sorumluluk."
+          "name": "Ürün Dağıtım ve Kategori Geliştirme Birimi",
+          "role": "Sporcu ürünleri, takviye, kozmetik ve dermokozmetik hatlarının tedarik, dağıtım ve kategori yönetimini üstlenir."
         }
       }
     },
     "why": {
       "eyebrow": "Güçlü yönler",
-      "title": "Neden birlikte çalışıyoruz",
+      "title": "Neden Yaralıoğlu ile çalışılır",
       "items": {
         "strategic": {
-          "title": "Sahadan gelen liderlik",
-          "body": "Kurucu seviyesinde milli sporculuk ve antrenörlük tecrübesi, karar süreçlerimize doğrudan kalite ve gerçekçilik kazandırır."
+          "title": "Saha kökenli kurucu liderlik",
+          "body": "Kararlar teoriye değil, sahada test edilmiş spor ve işletme tecrübesine dayanır."
         },
         "discipline": {
-          "title": "Bilimsel ve sistemli yaklaşım",
-          "body": "Antrenman planlama, performans takibi ve gelişim süreçleri akademik birikimle desteklenen ölçülebilir sistemler üzerinden ilerler."
+          "title": "Çok ayaklı ama kontrollü büyüme",
+          "body": "İnşaat, işletme, ekipman ve ürün hattı birlikte büyürken kalite standardı tek merkezden korunur."
         },
         "service": {
-          "title": "Çok disiplinli uzmanlık",
-          "body": "Spor performansını beslenme, fizyoterapi, rehabilitasyon ve recovery ile birlikte ele alarak daha kalıcı sonuçlar üretiriz."
+          "title": "Uçtan uca çözüm yaklaşımı",
+          "body": "Proje geliştirmeden kurulum ve işletmeye, ürün temininden kategori yönetimine kadar bütünlüklü destek sunarız."
         },
         "longterm": {
-          "title": "Toplumsal etki odağı",
-          "body": "Önceliğimiz kısa vadeli ticari kazanç değil; sağlıklı, disiplinli ve güçlü bireylerin yetişmesine katkı sunmaktır."
+          "title": "B2B ve B2C dengesi",
+          "body": "Kurumsal ortaklıkları önceliklendirirken son kullanıcı deneyimini güçlendiren güvenilir hizmet ve ürün yapısı kurarız."
         }
       }
     },
     "stats": {
       "eyebrow": "Ölçek göstergeleri",
-      "title": "Ölçülü ayak izi, ihtiyatlı genişleme",
-      "note": "Aşağıdaki rakamlar sunum amaçlı temsili yer tutuculardır. Denetlenmiş istatistikler resmî raporlama ile birlikte güncellenecektir.",
-      "sectors": "Çekirdek sektörler",
-      "initiatives": "Aktif girişimler",
-      "partners": "İş ortakları",
-      "years": "Faaliyet yılları"
+      "title": "Faaliyet ölçeği ve büyüme yönü",
+      "note": "Rakamlar faaliyet büyüklüğü ve kapasite görünümü için dönemsel olarak güncellenir.",
+      "sectors": "Ana faaliyet kolu",
+      "initiatives": "Aktif proje ve operasyon",
+      "partners": "İş ortağı / tedarik ağı",
+      "years": "Saha tecrübe yılı"
     },
     "references": {
       "eyebrow": "Referanslar",
-      "title": "Seçilmiş sektörlerde güven ilişkileri",
-      "lead": "Ortak adları tipografi ve ızgara düzeni için yer tutucudur. Onaylı logo varlıkları ve vaka anlatımları sonrasında eklenecektir.",
-      "link": "Tüm referanslar"
+      "title": "Güvene dayalı iş ilişkileri",
+      "lead": "Kurumsal projelerde, saha uygulamalarında ve tedarik süreçlerinde birlikte çalıştığımız paydaşlarla uzun vadeli ilişki kurmayı hedefleriz.",
+      "link": "Referans yaklaşımımız"
     },
     "cta": {
-      "title": "Tanıtım ve iş birliği için açık iletişim",
-      "body": "Kurumunuz için spor, performans veya gelişim odaklı bir proje planlıyorsanız yaklaşımımızı tanıtmaktan memnuniyet duyarız.",
-      "primary": "Tanıtım görüşmesi planlayın",
-      "secondary": "Faaliyetleri keşfedin"
+      "title": "Kurumsal tanıtım ve proje görüşmeleri",
+      "body": "İnşaat, spor işletmeciliği, ekipman çözümleri veya ürün dağıtımı tarafında iş birliği değerlendirmek isterseniz ekibimizle iletişime geçebilirsiniz.",
+      "primary": "B2B görüşme talep edin",
+      "secondary": "Hizmet alanlarını görüntüleyin"
     }
   },
   "Corporate": {
     "hero": {
       "eyebrow": "Kurucu hikayesi ve kurum kimliği",
       "title": "Kurumsal",
-      "desc": "Kurucu geçmişimiz, değerlerimiz ve kurumsal çalışma modelimizle etkiyi nasıl sürdürülebilir hale getirdiğimizi anlatıyoruz."
+      "desc": "Kurucu geçmişimizden doğan iş modelimizi, bugünkü faaliyet portföyümüzü ve büyüme yönümüzü paylaşıyoruz."
     },
-    "profile": { "title": "Şirket profili", "p1": "Yaralıoğlu, kurucu Selçuk Yaralıoğlu’nun milli sporculuk ve milli antrenörlük deneyiminden doğan bir vizyonla kurulmuştur. İlk merkezden itibaren dövüş sporları, performans antrenmanları ve crossfit yaklaşımı; sporcu diyetisyeni, fizyoterapi, rehabilitasyon ve recovery süreçleriyle entegre edilerek Türkiye’de öncü bir çok disiplinli model oluşturulmuştur.", "p2": "Kurucu ekibin saha tecrübesi, akademik birikimi ve uluslararası gözlemleriyle gelişen bu model, bugün kurumsal iş birliklerine açık, sürdürülebilir ve ölçülebilir bir yapı olarak konumlanmaktadır." },
-    "vision": { "title": "Vizyon", "body": "Sporun birey ve toplum üzerindeki dönüştürücü etkisini kurumsal standartlarla büyüterek, sağlıklı ve güçlü nesillerin gelişimine katkı sunan örnek bir model olmak." },
-    "mission": { "title": "Misyon", "body": "Akademi, performans ve entegre sağlık yaklaşımını aynı sistemde birleştirerek sporculara, gençlere ve iş ortaklarımıza sürdürülebilir gelişim odaklı çözümler sunmak." },
+    "profile": { "title": "Şirket profili", "p1": "Yaralıoğlu, Selçuk Yaralıoğlu’nun spor sahasındaki birikimini iş dünyasına taşımasıyla kurulmuş; zamanla inşaat, spor salonu işletmesi, ekipman ticareti-kurulumu-danışmanlığı ve ürün dağıtımına genişleyen bir kurumsal yapıya dönüşmüştür.", "p2": "Şirket yapımız, operasyonları birbirini besleyen bağımsız iş kolları halinde yönetir. Bu sayede hem kurumsal projelerde ölçekli çözüm sunar hem de son kullanıcı tarafında sürdürülebilir hizmet kalitesi üretiriz." },
+    "vision": { "title": "Vizyon", "body": "Spor ekosistemine değer katan, çok ayaklı ve güvenilir bir iş modeliyle ulusal ölçekte örnek gösterilen bir kurum olmak." },
+    "mission": { "title": "Misyon", "body": "İnşaat, işletme, ekipman ve ürün dağıtımı alanlarında sahaya uygun, ölçülebilir ve sürdürülebilir çözümler sunarak paydaşlarımıza kalıcı değer üretmek." },
     "valuesTitle": "Temel değerler",
     "values": {
-      "integrity": { "title": "Dürüstlük ve emek", "body": "Sahada verdiğimiz söz ile uygulamada gösterdiğimiz kaliteyi aynı çizgide tutarız." },
-      "capital": { "title": "Sürdürülebilirlik", "body": "Hızlı görünürlük yerine uzun vadeli etki üreten adımları tercih ederiz." },
-      "excel": { "title": "Bilimsel gelişim", "body": "Antrenman ve gelişim süreçlerini akademik bilgi, ölçüm ve sürekli iyileştirme ile destekleriz." },
-      "stakeholder": { "title": "Toplumsal sorumluluk", "body": "Sporu yalnızca rekabet değil, karakter ve yaşam disiplini kazandıran bir eğitim alanı olarak görürüz." }
+      "integrity": { "title": "Güvenilirlik", "body": "Taahhüt ettiğimiz kapsamı, zaman planını ve kaliteyi şeffaf biçimde yönetiriz." },
+      "capital": { "title": "Sürdürülebilir büyüme", "body": "Kısa vadeli görünürlük yerine uzun vadeli iş ortaklığı ve operasyonel dayanıklılığa odaklanırız." },
+      "excel": { "title": "Saha gerçekliğine uygunluk", "body": "Her çözümü kullanım senaryosu, teknik ihtiyaç ve operasyon akışına göre tasarlarız." },
+      "stakeholder": { "title": "İş birliği kültürü", "body": "B2B ortaklarımız ve B2C kullanıcılarımızla uzun vadeli, karşılıklı güvene dayalı iletişim kurarız." }
     },
-    "management": { "title": "Yönetim yaklaşımı", "p1": "Yönetim modelimiz; sahadan gelen tecrübeyi sistemli planlama ile birleştirir. Program kalitesi, sporcu güvenliği, gelişim takibi ve ekip koordinasyonu temel önceliklerimizdir. Her proje, sürdürülebilirlik ve ölçülebilir çıktı kriterleriyle değerlendirilir.", "p2": "Kurumsal iş birliklerinde açık iletişim, net kapsam ve uygulanabilir zaman planı ile çalışır; süreci her paydaş için anlaşılır ve şeffaf yürütürüz." },
-    "strategy": { "title": "Kurumsal bakış ve uzun vadeli strateji", "p1": "Uzun vadeli stratejimiz; akademi modelini güçlendirmek, çok disiplinli performans yaklaşımını yaygınlaştırmak ve kurumsal projelerde yüksek standartta uygulama üretmektir.", "p2": "Ulusal ve uluslararası deneyimlerden beslenen vizyonumuzla, ülkemizde spor kültürüne kalıcı katkı sağlayan ölçeklenebilir bir yapı inşa etmeyi hedefliyoruz." }
+    "management": { "title": "Yönetim yaklaşımı", "p1": "Yönetim modelimiz, her iş kolunu net sorumlulukla yöneten ancak kalite standardını merkezden koruyan bir yapıdadır. Proje geliştirme, saha uygulaması, tedarik ve müşteri iletişimi aynı performans çerçevesinde değerlendirilir.", "p2": "Operasyonel kararlar hızlı, raporlama düzeni sistemlidir. Böylece hem kurumsal projelerde öngörülebilir sonuç üretir hem de kullanıcı tarafında hizmet sürekliliğini koruruz." },
+    "strategy": { "title": "Kurumsal bakış ve uzun vadeli strateji", "p1": "Stratejimiz; mevcut iş kollarını aynı anda güçlendirirken yeni ürün ve kategori hatlarını kontrollü biçimde devreye almaktır. İnşaat ve tesis geliştirme ile başlayan proje akışı, işletme ve ekipman çözümleriyle tamamlanır, ürün dağıtımıyla ölçeklenir.", "p2": "Sporcu ürünleri, takviye, kozmetik ve dermokozmetik hattında hazırlıklar tamamlanmıştır. Yeni dönemde bu iş kolu, mevcut operasyonlarımızı destekleyen güçlü bir büyüme alanı olarak aktifleşmektedir." }
   },
   "ActivitiesPage": {
-    "hero": { "eyebrow": "Ne yapıyoruz", "title": "Faaliyetler", "desc": "Rekabetçi kategorilerde değer yaratma, ortaklara hizmet ve itibar biriktirme biçimimizi tanımlayan dört stratejik sütun." },
+    "hero": { "eyebrow": "Ne yapıyoruz", "title": "Faaliyetler", "desc": "İnşaattan spor salonu işletmesine, ekipman çözümlerinden ürün dağıtımına uzanan entegre faaliyet modelimiz." },
     "blocks": {
-      "fitness": { "title": "Spor ve Fitness Çözümleri", "body": "Program kalitesi, ekipman yaşam döngüsü ve yetenek standartlarının marka özkaynağını güçlendirdiği seçkin wellness ortamlarını tasarlar ve yönetiriz. Kabiliyetler; ayrıcalıklı kitleler için konsept geliştirme, operasyon denetimleri, eğitmen mükemmellik çerçeveleri ve üye yolculuğu tasarımını kapsar.", "m1": "Program yönetişimi", "m2": "Üst düzey ekipman standartları", "m3": "Tutundurma analitiği", "panelEyebrow": "Görsel panel", "panelTitle": "Spor ve Fitness Çözümleri", "panelNote": "Bu bölüm, nihai üretim döngüsünde fotoğraf ve infografiklerle şirketin stratejik faaliyet alanını öne çıkaracaktır." },
-      "facility": { "title": "Tesis Operasyonları", "body": "Yoğun trafikli spor mekânlarından kurumsal sosyal alanlara kadar önleyici bakım programları, tedarikçi performans skor kartları ve acil hazırlık protokollerini yönetiriz. Amaç: kesintisiz çalışma süresi, marka ile uyumlu estetik ve öngörülebilir maliyet yapıları.", "m1": "Çalışma süresi KPI’ları", "m2": "Tedarikçi uyumu", "m3": "Yaşam döngüsü sermaye planları", "panelEyebrow": "Görsel panel", "panelTitle": "Tesis Operasyonları", "panelNote": "Bu bölüm, nihai üretim döngüsünde fotoğraf ve infografiklerle şirketin stratejik faaliyet alanını öne çıkaracaktır." },
-      "trade": { "title": "Ticaret ve Dağıtım", "body": "Seçici ithalat, toptan satış ve kanal ortaklıkları sözleşmesel netlik, stok disiplini ve etik tedarik kontrol noktaları etrafında yapılandırılır. Şeffaf Hizmet Seviyesi Anlaşmaları ve karşılıklı marj bütünlüğü ile ölçeklenen ilişkilere öncelik veririz.", "m1": "SLA uyumu", "m2": "Kanal yönetişimi", "m3": "Gümrük hazırlığı", "panelEyebrow": "Görsel panel", "panelTitle": "Ticaret ve Dağıtım", "panelNote": "Bu bölüm, nihai üretim döngüsünde fotoğraf ve infografiklerle şirketin stratejik faaliyet alanını öne çıkaracaktır." },
-      "investment": { "title": "Yatırım ve İş Geliştirme", "body": "Yatırım duruşumuz kasıtlıdır: operasyonel içgörünün uygulanabileceği, yönetişimin güçlendirilebileceği ve çıkış yollarının gerçekçi kaldığı yerlerde yer alırız. İş geliştirme; grup risk iştahına göre taranan ortak girişimler, tamamlayıcı satın almalar ve platform genişlemelerini destekler.", "m1": "Aşama kapısı incelemesi", "m2": "Portföy incelemeleri", "m3": "Sinerji haritalama", "panelEyebrow": "Görsel panel", "panelTitle": "Yatırım ve İş Geliştirme", "panelNote": "Bu bölüm, nihai üretim döngüsünde fotoğraf ve infografiklerle şirketin stratejik faaliyet alanını öne çıkaracaktır." }
+      "fitness": { "title": "Spor Salonu İşletmesi ve Akademi", "body": "Spor salonu işletmeciliğinde dövüş sporları, performans antrenmanı ve gelişim odaklı programları birlikte yürütürüz. Operasyon modeli; eğitmen yönetimi, üye deneyimi ve saha verimliliğini aynı anda optimize eder.", "m1": "Akademi programları", "m2": "Performans odaklı planlama", "m3": "Saha operasyon yönetimi", "panelEyebrow": "Görsel panel", "panelTitle": "Spor Salonu İşletmesi ve Akademi", "panelNote": "Bu alan, ilgili iş koluna ait gerçek proje ve uygulama görselleriyle güncellenecektir." },
+      "facility": { "title": "İnşaat ve Tesis Geliştirme", "body": "Spor ve yaşam odaklı projelerde mimari-uygulama süreçlerini işletme ihtiyacına göre şekillendiririz. Amaç yalnızca yapı teslimi değil, sürdürülebilir kullanım altyapısı oluşturmaktır.", "m1": "Proje planlama", "m2": "Uygulama koordinasyonu", "m3": "İşletmeye uygun altyapı", "panelEyebrow": "Görsel panel", "panelTitle": "İnşaat ve Tesis Geliştirme", "panelNote": "Bu alan, ilgili iş koluna ait gerçek proje ve uygulama görselleriyle güncellenecektir." },
+      "trade": { "title": "Ekipman Ticareti, Kurulum ve Danışmanlık", "body": "Spor ekipmanlarında doğru ürün seçimi, tedarik, teknik kurulum ve kullanım danışmanlığını tek süreçte sunarız. Bu yaklaşım, kurumların yatırım verimliliğini ve saha güvenliğini artırır.", "m1": "Ürün tedariği", "m2": "Teknik kurulum", "m3": "Operasyon danışmanlığı", "panelEyebrow": "Görsel panel", "panelTitle": "Ekipman Ticareti, Kurulum ve Danışmanlık", "panelNote": "Bu alan, ilgili iş koluna ait gerçek proje ve uygulama görselleriyle güncellenecektir." },
+      "investment": { "title": "Sporcu Ürünleri ve Dermokozmetik Hattı", "body": "Sporcu ürünleri, takviye, kozmetik ve dermokozmetik kategorilerinde hazırlık süreci tamamlanmış olup ürün akışı başlatılmaktadır. Bu hat, mevcut spor ekosistemimizi tamamlayan stratejik bir ticari ayaktır.", "m1": "Kategori planlama", "m2": "Tedarik ve dağıtım", "m3": "Pazar devreye alma", "panelEyebrow": "Görsel panel", "panelTitle": "Sporcu Ürünleri ve Dermokozmetik Hattı", "panelNote": "Bu alan, ilgili iş koluna ait gerçek proje ve uygulama görselleriyle güncellenecektir." }
     }
   },
   "GroupPage": {
-    "hero": { "eyebrow": "Organizasyon", "title": "Grup yapısı", "desc": "Bugün için şeffaflık, yarın için disiplinli genişleme tasarlanmış modüler holding mimarisi." },
-    "overview": { "title": "Grup özeti", "p1": "Yaralıoğlu Yatırım Ticaret Ltd., uyumluluk, teknoloji, tedarik ve marka için paylaşılan politikalar altında özerk fakat hizalı iş birimlerini koordine eder. Bu yapı, her birimin piyasasında etkin rekabet etmesine izin verirken grup düzeyinde sermaye erişimi ve yetenek hareketliliğinden yararlanır.", "p2": "Yasal varlık diyagramları ve iştirak adlandırmaları, hukuk ve kurumsal iletişimle nihai hâle getirildiğinde entegre edilecektir." },
-    "featuredEyebrow": "Öne çıkan iş birimi",
-    "featuredHighlights": "Öne çıkanlar",
-    "featuredBullets": { "b1": "İmza üye ve misafir deneyimi standartları", "b2": "Grup çapında benimsenen operasyonel kıyaslar", "b3": "Marka yönlü çeşitlendirme için çapa olarak tanımlanan birim" },
-    "secondaryTitle": "Diğer iş birimleri",
-    "secondaryLead": "İkincil birimler ayrılmış F&Z sorumluluğunu korurken tedarik, gayrimenkul ve analitikte grup sinerjilerine katkı sağlar.",
-    "future": { "title": "Gelecek genişleme ve yeni girişimler", "p1": "Grup, finansal eşikler, düzenleyici uygulanabilirlik ve kültürel uyuma göre değerlendirilen bir girişim hattı sürdürmektedir. İncelenen temalar arasında seçici konaklama yan dalları, teknoloji destekli tesis analitiği ve savunulabilir hendeklere sahip uluslararası ticaret hatları yer alır.", "p2": "Bu bölüm, girişimler gizlilikten kamuya hazır dönüm noktalarına olgunlaştıkça şirketin stratejik faaliyet alanını öne çıkaracaktır." },
+    "hero": { "eyebrow": "Organizasyon", "title": "Grup yapısı", "desc": "İnşaat, işletme, ekipman ve ürün hatlarının birlikte çalıştığı organizasyon yapımız." },
+    "overview": { "title": "Organizasyon modeli", "p1": "Şirket yapımız, farklı iş kollarını tek yönetim standardı altında bir araya getirir. Her birim kendi uzmanlık alanında çalışırken ortak hedef: ölçeklenebilir kalite, öngörülebilir teslimat ve sürdürülebilir büyümedir.", "p2": "Bu model, kurumsal projelerde hızlı koordinasyon ve son kullanıcıya kesintisiz hizmet akışı sağlar." },
+    "featuredEyebrow": "Merkez operasyon",
+    "featuredHighlights": "Operasyon odağı",
+    "featuredBullets": { "b1": "Spor işletmeciliği tecrübesiyle güçlenen saha yönetimi", "b2": "Ekipman, kurulum ve danışmanlık süreçlerinde tek noktadan koordinasyon", "b3": "Yeni ürün hattıyla genişleyen ticari kapasite" },
+    "secondaryTitle": "Destekleyici iş birimleri",
+    "secondaryLead": "Her birim, ana operasyonu büyüten tamamlayıcı görevlerle yapılandırılmıştır.",
+    "future": { "title": "Genişleme başlıkları", "p1": "Yakın dönemde odak; ürün dağıtım hattını güçlendirmek, kurumsal proje hacmini artırmak ve ekipman tarafında hizmet standardını yeni pazarlara taşımaktır.", "p2": "Tüm genişleme adımları operasyon kapasitesi, regülasyon uygunluğu ve kalite standardı gözetilerek uygulanır." },
     "units": {
       "flagship": { "name": "Amiral Gemisi Fitness Operasyonu", "role": "İmza wellness ve performans platformu; ayrıntılı birim anlatısı içerik aşamasında netleştirilecektir." },
       "tradeDiv": { "name": "Ticari Ticaret Bölümü", "role": "Doğrulanmış ürün kategorilerinde ithalat, toptan satış ve kanal yönetimi; ortak uyumu ön planda." },
@@ -197,70 +197,70 @@
     }
   },
   "InvestmentsPage": {
-    "hero": { "eyebrow": "Sermaye ve büyüme", "title": "Yatırımlar", "desc": "Dikkat ve sermayeyi nasıl konumlandırdığımız — sabırla, yönetişimle ve ölçülebilir hesap verebilirlikle." },
-    "philosophy": { "title": "Yatırım felsefesi", "body": "Operasyonel uzmanlığın farklılaştırıcı olduğu, aşağı yönün anlaşıldığı ve üst yönün spekülasyon değil yürütümle yönlendirildiği durumları tercih ederiz. Sermaye netliği takip eder: maddi taahhüt öncesinde strateji, örgütsel hazırlık ve risk azaltma yerinde olmalıdır." },
-    "growth": { "title": "Uzun vadeli büyüme yaklaşımı", "body": "Büyüme ufuklara ayrılır — 12 aylık operasyonel kaldıraçlar, 24–36 aylık pazar genişlemesi ve çok yıllık platform bahisleri. Her ufuk açık KPI’lar, inceleme ritmi ve atalet önlemek için isteğe bağlı çıkış ölçütleri taşır." },
-    "portfolioTitle": "Stratejik proje portföyü",
-    "portfolioLead": "Aşağıdaki örnek girişimler değerlendirme kategorilerini iletir; gizli projeler uygun olana dek açıklanmaz.",
+    "hero": { "eyebrow": "Büyüme ve ticari model", "title": "Yatırımlar", "desc": "Çok ayaklı faaliyet yapımızın gelir modeli, büyüme alanları ve devreye aldığımız yeni iş hatları." },
+    "philosophy": { "title": "Ticari yaklaşımımız", "body": "Yaralıoğlu, birbirini besleyen iş kolları ile büyür: proje geliştirme, işletme, ekipman ve ürün dağıtımı tek bir değer zinciri oluşturur. Bu sayede tek kaleme bağlı risk yerine dengeli gelir yapısı hedeflenir." },
+    "growth": { "title": "Büyüme modeli", "body": "Büyümeyi üç aşamada yönetiriz: mevcut operasyonları güçlendirme, tamamlayıcı iş kolunu devreye alma ve kategori genişlemesi. Her aşama ölçülebilir hedef, operasyon kapasitesi ve pazar geri bildirimi ile değerlendirilir." },
+    "portfolioTitle": "Aktif büyüme başlıkları",
+    "portfolioLead": "Aşağıdaki başlıklar, iş modelimizin yakın dönem odak alanlarını gösterir.",
     "projects": {
-      "p1": { "tag": "Operasyon teknolojisi", "title": "Platform modernizasyon programı", "body": "Çekirdek varlıklar genelinde tesis sistemleri, dijital üye temas noktaları ve analitik altyapısını yükselten çok aşamalı girişim." },
-      "p2": { "tag": "Ticaret ve lojistik", "title": "Seçici dağıtım genişlemesi", "body": "Daha geniş yayılımdan önce pilot ekonomilerle yürütülen coğrafi ve kanal testleri; ortak incelemesini vurgular." },
-      "p3": { "tag": "Marka inovasyonu", "title": "Wellness konsept kuluçkası", "body": "Seçkin kentsel demografiler için farklılaştırılmış programlama ve mekân tasarımına yönelik Ar-Ge — aşama onaylarına tabidir." }
+      "p1": { "tag": "İnşaat ve tesis", "title": "Spor odaklı proje geliştirme", "body": "İşletme verimliliği yüksek, kullanım odaklı tesis ve alan projelerinin planlama ve uygulama yönetimi." },
+      "p2": { "tag": "Ekipman ve hizmet", "title": "Ekipman ticareti ve kurulum ölçeklenmesi", "body": "Kurumsal müşterilerde tedarik-kurulum-danışmanlık süreçlerini standardize ederek daha geniş pazara yayılım." },
+      "p3": { "tag": "Ürün hattı", "title": "Sporcu ürünleri ve dermokozmetik devreye alma", "body": "Hazırlıkları tamamlanan ürün kategorilerinin kontrollü lansmanı ve dağıtım altyapısının aktif kullanımı." }
     },
-    "sectorsTitle": "Stratejik sektör odağı",
-    "sectorsLead": "Ağlarımızın, düzenleyici aşinalığımızın ve operasyonel playbook’larımızın bileştiği alanlarda yoğunlaşırız — sürdürülebilir avantaj olmayan kategorilere fırsatçı sürüklenmeden kaçınırız.",
-    "sectors": { "s1": "Performans ve wellness", "s2": "Tesisler ve hizmetler", "s3": "Tüketici ticareti", "s4": "Stratejik kurumsal gelişim" },
-    "modelTitle": "Değer yaratma modeli",
+    "sectorsTitle": "Faaliyet odakları",
+    "sectorsLead": "Operasyon gücümüzün yüksek olduğu ve birbirini tamamlayan alanlara odaklanırız.",
+    "sectors": { "s1": "İnşaat ve tesis geliştirme", "s2": "Spor salonu işletmesi", "s3": "Ekipman ticareti ve kurulum", "s4": "Sporcu ürünleri dağıtımı" },
+    "modelTitle": "Değer üretim modelimiz",
     "modelSteps": {
-      "m1": { "strong": "Teşhis", "text": "— kaynak tahsisinden önce performans, risk ve kültürel faktörlerin tabanı." },
-      "m2": { "strong": "Tasarım", "text": "— ölçülebilir dönüm noktalarıyla işletme modeli, sermaye planı ve yönetişim ritmi." },
-      "m3": { "strong": "Yürütüm", "text": "— panolar, denetimler ve şeffaf paydaş iletişimiyle desteklenen icra." },
-      "m4": { "strong": "Derinleştirme", "text": "— getiri ve stratejik opsiyonalite güçlü kaldığı yerde yeniden yatırım; aksi halde çıkış veya yeniden şekillendirme." }
+      "m1": { "strong": "Planla", "text": "— proje ve pazar ihtiyacını netleştir." },
+      "m2": { "strong": "Kur", "text": "— altyapı, ekip ve tedarik zincirini oluştur." },
+      "m3": { "strong": "İşlet", "text": "— kalite standartlarıyla sürdürülebilir operasyon yürüt." },
+      "m4": { "strong": "Büyüt", "text": "— veriye dayalı iyileştirme ve yeni kategori açılımlarıyla ölçekle." }
     },
-    "roadmap": { "title": "Gelecek yol haritası", "p1": "İleri dönük girişimler, dönüm noktaları başarıldıkça yatırımcı- ve ortak-dostu materyallerde anlatılacaktır. Dijital altyapı, sorumlu genişleme ve gelişen ESG açıklama normlarına riayet vurgulanacaktır.", "p2": "Denetlenmiş sonuçlar, hatt güncellemeleri ve yönetişim iyileştirmelerini yansıtmak üzere ayrıntılı şirket bilgileri burada dönemsel olarak sunulacaktır." }
+    "roadmap": { "title": "Yakın dönem yol haritası", "p1": "Birincil hedefimiz, mevcut B2B iş birliklerini büyütmek ve operasyonel kapasiteyi artırmaktır. Eş zamanlı olarak B2C tarafında ürün ve hizmet erişimini güvenilir dağıtım modeliyle güçlendiriyoruz.", "p2": "Sporcu ürünleri, takviye, kozmetik ve dermokozmetik hattında ürün girişleri başlamakta olup, bu alan yeni dönemin önemli büyüme ayağı olarak konumlanmaktadır." }
   },
   "ReferencesPage": {
-    "hero": { "eyebrow": "Güven ve ağ", "title": "Referanslar", "desc": "Seçkin operatörler, endüstriyel ortaklar ve kurumsal paydaşlarla nasıl iş birliği yaptığımızı gösteren seçilmiş ilişkiler." },
-    "trustedTitle": "Odaklı bir iş ağı tarafından güven",
-    "trustedLead": "Hacimden çok derinlik peşindeyiz: daha az ilişki, daha yüksek karşılıklı standartlar ve hesap verebilir teslimat. Aşağıdaki kimlikler, ortak onayları ve marka kılavuzları kamu logo kullanımına izin verene dek tipografik yer tutuculardır.",
-    "gridTitle": "Logo ızgarası",
-    "gridLead": "Vurgulamak için hover durumları; üretimde metin kilitleri onaylı grafiklerle değiştirilecektir.",
-    "testimonialsTitle": "Ortak bakış açıları",
-    "testimonialsLead": "Örnek görüşler; adlar ve organizasyonlar resmî yetki bekleyen yer tutuculardır.",
+    "hero": { "eyebrow": "Güven ve ağ", "title": "Referanslar", "desc": "Sahada birlikte değer ürettiğimiz kurumlar ve iş ortaklarıyla kurduğumuz çalışma modeli." },
+    "trustedTitle": "İş birliğine dayalı referans yaklaşımı",
+    "trustedLead": "Referanslarımız, teslimat kalitesi, çözüm odaklı yaklaşım ve uzun vadeli güven üzerinden şekillenir.",
+    "gridTitle": "İş birliği ağı",
+    "gridLead": "Faaliyet alanlarına göre şekillenen partner ve paydaş ilişkileri.",
+    "testimonialsTitle": "İş ortağı geri bildirimleri",
+    "testimonialsLead": "Süreç yönetimi, uygulama kalitesi ve iletişim standardımızı yansıtan örnek görüşler.",
     "t1": { "quote": "Atletik düzeyde operasyonel ayrıntı ile kurumsal yönetişimin nadir bir birleşimi. Görüşmeler yapılandırılmıştı, son tarihlere uyuldu ve iletişim dürüsttü.", "name": "Yer tutucu — Genel Müdür", "org": "Endüstriyel dağıtım ortağı" },
     "t2": { "quote": "Tesis ekibi iş listesi değil sistem düşünür. İlk inceleme döngüsünde ölçülebilir çalışma süresi iyileşmeleri gördük.", "name": "Yer tutucu — Operasyon Direktörü", "org": "Seçkin wellness platformu" },
     "t3": { "quote": "İnceleme bürokratikleşmeden kurumsal hissettirdi — net aşama kapıları ve şeffaf risk konuşmaları.", "name": "Yer tutucu — Yatırım lideri", "org": "Bölgesel kalkınma fonu" },
-    "sectorsTitle": "Hizmet verilen sektörler",
-    "sectorsLead": "Çalışmamız tutarlılık, uyumluluk ve üst düzene hizmet teslimatının ödüllendirildiği kategorileri kapsar. Sektör listeleri girişimler olgunlaştıkça ve yeni dikeyler resmî kanallarla duyuruldukça gelişecektir.",
-    "sectorTags": { "s1": "Spor ve performans", "s2": "Tesis yönetimi", "s3": "İthalat ve toptan satış", "s4": "Kurumsal hizmetler", "s5": "Konaklama yan dalları" }
+    "sectorsTitle": "Çalıştığımız alanlar",
+    "sectorsLead": "İnşaat, spor işletmeciliği, ekipman çözümleri ve ürün dağıtımında farklı ölçeklerde paydaşlarla çalışırız.",
+    "sectorTags": { "s1": "İnşaat ve tesis", "s2": "Spor işletmeciliği", "s3": "Ekipman ve teknik kurulum", "s4": "Kurumsal hizmet ve danışmanlık", "s5": "Sporcu ürünleri ve dermokozmetik" }
   },
   "MediaPage": {
-    "hero": { "eyebrow": "Görsel hikâyeler", "title": "Medya merkezi", "desc": "Nasıl inşa ettiğimizi, işlettiğimizi ve evrildiğimizi gösteren editöryal pencere — yıllık raporlarımızdaki aynı titizlikle sunulur." },
+    "hero": { "eyebrow": "Görsel hikâyeler", "title": "Medya merkezi", "desc": "Projelerimizden, saha uygulamalarımızdan ve yeni iş hatlarımızdan güncel görsel içerikler." },
     "galleryTitle": "Galeri",
-    "galleryLead": "Kategoriler, görselleri niyetle gezinmeyi kolaylaştırır. Yüksek çözünürlüklü fotoğraf ve video, içerik entegrasyonu sırasında gradyan yer tutucularının yerini alacaktır.",
+    "galleryLead": "Galeri, faaliyet alanlarımıza ait güncel uygulama ve proje içeriklerinin paylaşımı için düzenlenmiştir.",
     "categories": { "all": "Tümü", "facilities": "Tesisler", "operations": "Operasyonlar", "corporate": "Kurumsal", "projects": "Projeler" },
     "cardEditorial": "Editöryal yer tutucu",
     "view": "Görüntüle",
     "lightboxAria": "Medya önizleme",
     "lightboxClose": "Kapat",
-    "lightboxTitle": "Profesyonel fotoğraf yer tutucusu",
-    "lightboxBody": "Bu panel yüksek çözünürlüklü kurumsal ve performans görselleri ile değiştirilecektir. Işık kutusu; tesisler, operasyonlar ve stratejik proje anlatımı için editöryal sunumu gösterir.",
+    "lightboxTitle": "Proje ve operasyon görseli",
+    "lightboxBody": "Bu alan, inşaat, spor işletmesi, ekipman kurulumları ve ürün hattı içeriklerinin yüksek çözünürlüklü sunumu için kullanılır.",
     "itemLabel": "{category} — görsel {n}"
   },
   "ContactPage": {
-    "hero": { "eyebrow": "Tanışalım", "title": "İletişim", "desc": "Kurumsal tanıtım, proje görüşmeleri ve iş birliği değerlendirmeleri için bizimle iletişime geçin." },
-    "inquiryTitle": "İş birliği ve tanıtım görüşmeleri",
-    "inquiryLead": "Kurumunuza özel spor, performans veya gelişim odaklı bir çalışma planlıyorsanız kapsamı paylaşın; ekibimiz en kısa sürede dönüş sağlasın.",
+    "hero": { "eyebrow": "Tanışalım", "title": "İletişim", "desc": "B2B proje ve iş birliği talepleri ile B2C ürün-hizmet bilgi talepleri için bizimle iletişime geçin." },
+    "inquiryTitle": "B2B ve B2C iletişim",
+    "inquiryLead": "İnşaat, spor işletmeciliği, ekipman çözümleri ve ürün hattımızla ilgili tüm taleplerinizi paylaşabilirsiniz. Talebiniz ilgili birime yönlendirilerek en kısa sürede dönüş yapılır.",
     "addressLabel": "Adres",
     "phoneLabel": "Telefon",
     "emailLabel": "E-posta",
     "hoursLabel": "Çalışma saatleri",
-    "ctaBoxTitle": "Kurumsal tanıtım çağrısı",
-    "ctaBoxBody": "İş birliği hedefinizi, kurum profilinizi ve zaman planınızı kısa bir notla paylaşmanız yeterlidir.",
-    "ctaBoxButton": "Faaliyet alanlarını inceleyin",
+    "ctaBoxTitle": "İş birliği ve ürün bilgi çağrısı",
+    "ctaBoxBody": "Mesajınızda talep türünü (B2B proje / B2C ürün-hizmet) belirtmeniz, hızlı yönlendirme sağlar.",
+    "ctaBoxButton": "Faaliyet yapımızı inceleyin",
     "mapTitle": "Konum",
-    "mapLead": "Ofis ve görüşme lokasyon bilgileri talep doğrultusunda paylaşılmaktadır.",
-    "mapPlaceholder": "Lokasyon bilgisi ve görüşme planı için iletişim formunu kullanabilirsiniz."
+    "mapLead": "Görüşme ve operasyon lokasyon bilgileri, talep kapsamına göre paylaşılmaktadır.",
+    "mapPlaceholder": "Detaylı lokasyon ve toplantı planı için form üzerinden bizimle iletişime geçebilirsiniz."
   },
   "ContactForm": {
     "name": "Ad soyad",
@@ -269,14 +269,14 @@
     "message": "Mesaj",
     "phName": "Adınız",
     "phEmail": "siz@kurum.com",
-    "phSubject": "Ortaklık talebi, medya, genel",
+    "phSubject": "B2B proje, ekipman talebi, ürün bilgisi, genel",
     "phMessage": "Bağlam, zaman çizelgesi ve tercih ettiğiniz iletişim yöntemini paylaşın.",
-    "hint": "Paylaştığınız bilgiler yalnızca görüşme planlaması için kullanılır.",
+    "hint": "Talebiniz ilgili iş koluna yönlendirilmek üzere kayıt altına alınır.",
     "submit": "Mesajı gönder",
-    "success": "Teşekkürler. Mesajınız alınmıştır, ekibimiz en kısa sürede sizinle iletişime geçecektir."
+    "success": "Teşekkürler. Mesajınız ilgili ekibe iletildi; en kısa sürede dönüş sağlanacaktır."
   },
   "Contact": {
-    "address": "Kurumsal görüşmeler için lokasyon bilgisi talep sonrası paylaşılmaktadır.",
+    "address": "Proje ve iş birliği görüşmeleri için lokasyon bilgisi talep sonrası paylaşılır.",
     "hours": "Pazartesi–Cuma, 09:00–18:00 (bölgesel mesai)"
   }
 }
